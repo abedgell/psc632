@@ -1,0 +1,10 @@
+name: "psc632-website"
+navbar:
+  title: "PSC 632 - Democratization"
+  left:
+  - text: "Home"
+    href: index.html
+output:
+  html_document
+
+  

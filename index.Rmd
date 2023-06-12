@@ -1,0 +1,479 @@
+---
+title: "PSC 632: Democratization"
+subtitle: "Tuesdays, 1:00-3:30pm"
+author: "Instructor: Dr. Amanda B. Edgell (abedgell@ua.edu)"
+date: "Fall 2023"
+output: 
+  html_document:
+   toc: true
+   toc_float: true
+---
+
+
+```{css, echo=FALSE}
+p {
+  font-size: 16px;
+}
+
+td {
+  font-size: 16px;
+}
+
+ul li{
+ font-size:16px;
+}
+
+ol li{
+ font-size:16px;
+}
+```
+
+**Office Hours:** 314 TH, Tuesdays, 3:45-4:45pm
+
+
+---  
+
+# Course Description {#description}
+
+One of the most important areas of research in political science concerns the development of modern democracy. For most of recorded history, human beings have lived under dictatorship. During the 20th century, however, democracy swept the globe. While democracy is now a "zeitgeist", most regimes still fail to meet the minimal standards to be labeled "democratic". Likewise, many democracies are currently under threat from illiberal and anti-pluralist forces. Throughout this semester, we will tackle questions about what constitutes democracy and what explains democratization. We will discuss some of the core debates in the academic literature, drawing on both modern classics and newer works produced in the last five years. These academic works are highly relevant, not only to scholars of democratization, but to policymakers and practitioners. Therefore, the course content should be useful for graduate students interested in pursuing academic careers and those contemplating more policy-practitioner oriented professions. 
+
+---  
+
+# Student Learning Objectives {#slos}
+
+By the end of the semester, you should be able to... 
+
+1. **Summarize...** 
+2. **Synthesize...** 
+3. **Evaluate/critique...** 
+
+  ...the core debates and findings in the scholarly literature on democratization 
+ 
+---  
+
+# Required Texts {#texts}
+We will read these books in their entirety. 
+
+* Coppedge, Michael, Amanda B. Edgell, Carl Henrik Knutsen, and Staffan I. Lindberg, eds. 2022. *Why Democracies Develop and Decline*. New York: Cambridge University Press.
+*  Linz, Juan J. and Alfred Stepan. 1996. *Problems of Democratic Transition and Consolidation: Southern Europe, South America, and Post-Communist Europe.* Baltimore, MD: Johns Hopkins University Press.
+* Gerring, John, Brendan Apfeld, Tore Wig, and Andreas Forø Tollefsen. 2022. *The Deep Roots of Modern Democracy: Geography and the Diffusion of Political Institutions*. New York: Cambridge University Press. 
+* Chenoweth, Erica and Maria J. Stephan. 2011. *Why Civil Resistance Works: The Strategic Logic of Nonviolent Conflict* New York: Columbia University Press.
+
+---  
+
+# Pre-requisites
+Graduate standing or admission into the Accelerated Masters Program in Political Science
+
+---  
+
+
+# Course Requirements
+
+
+
+## 1. Class Discussion (50\%) {#discussion}
+
+This is a seminar, not a lecture-based course. You are expected to attend and participate all scheduled class meetings. You should arrive on time, having completed the assigned readings, and prepared to summarize, synthesize, and evaluate the material. This means that you need to actively engage with the required readings before class, asking questions such as: 
+
+* What is the research *question* guiding this work? 
+* What *methods* are used to answer the research question? 
+* What are the main findings or *conclusions* from this research? 
+* How does this research *relate* to other scholarly works in the literature? 
+* What are the core *contributions* of this work? 
+* What are the *limitations* of this research? 
+
+I strongly encourage you to prepare notes on the readings and bring them with you to class. 
+
+**Discussion Questions**: To facilitate class discussions, you are required to submit at least two discussion questions each week, **no later 8am the day of class**, which can be of a conceptual, substantive, or critical nature. Generally, we will follow that order, but may deviate depending on the flow of the discussion. 
+
+**Earning Discussion Credit**: For each class session, you can earn up to five points toward your class discussion grade. One point is for submitting two well-formulated discussion questions by 8am and the other four are for active participation during the discussion. You will not earn discussion credit for merely attending class. You may also lose discussion credit if you arrive to class late or I suspect that you are not actively listening to the discussion (e.g. working on other assignments, doom scrolling) since this is disrespectful and potentially distracting. It is possible to earn a negative discussion credit score for the day.
+
+
+
+## 2. Final Exam or Project (50\%) {#exam}
+
+**For Students who will take the comparative politics comprehensive exam**
+
+To help you prepare for comprehensive exams, you will take a final exam covering the content of this course. During the exam, you may use your notes and access course readings to prepare your responses; however, the use of pre-prepared responses and AI technoloogy are strictly prohibited. I will grade you exam based on your demonstrated ability to (1) summarize the readings; (2) synthesize across the readings; and (3) evaluate and critique the readings, such as by discussing the limitations, problems in the research design, or flaws in the core argument. These are the same criteria the comparative politics faculty uses when evaluating comprehensive exam responses. There will be one opportunity to complete a practice exam around the midterm. Students on the Exam Track may optionally complete this practice exam for feedback from the professor. If a student fails the final exam, they will have one opportunity to re-take it during the university scheduled final exam period. 
+
+**Students who have already taken or will not take the comparative politics comprehensive exam**
+
+You will conduct a research project. Your project may either be an original research paper, a research proposal, or a policy brief. The project should be related to democratization (broadly defined) and fit within your research or policy interests. Original papers can serve as starting points for article manuscripts, dissertation or thesis chapters, conference presentations, and writing samples. Research proposals will help you refine an idea and get feedback on it, which can be used for a dissertation or thesis prospectus. Policy briefs will provide those interested in policy-oriented careers a chance to engage with the policy implications of the academic work we read throughout the course and develop a viable writing sample for job applications. You will receive more detailed instructions about this assignment on the first day of class. 
+
+---  
+
+
+# Grading Policies {#grades}
+
+
+We will use the following grading scale in this class. Graduate students must maintain a 3.0 cumulative GPA or higher for all graduate coursework taken at the University of Alabama. A minimum 3.0 GPA is also required to be eligible for funding from the department.  
+
+|      A (4.0)     |     B (3.0)      |       C (2.0)      |      F   (0.0)      |
+| :---------: |  :-------:  |  :----------: |  :------------:| 
+|  Exemplary  | Adequate    |  Inadequate   |  Insufficient  |
+| 90-100\%    | 75-89\%     |  50-74\%      |  0-49\%        |
+
+
+## Attendance {#excuses}
+
+Students are expected to attend all scheduled class meetings. A student may miss class only for good cause, and in such cases must provide written documentation in advance or within **48 hours** of the missed class. If the circumstances make this impossible, documentation should be provided as soon as physically possible. 
+
+Good cause for missing class, subject to the professor's discretion, may include:
+
+* Sickness which disables the student from attending class or poses a significant threat to the health of others 
+* sickness of, or accident involving, a spouse or dependent, which requires the student to be with the spouse or dependent
+* An accident which necessarily prevents the student’s attendance in class 
+* The death of a family member or friend
+* An interview for an internship or for a permanent position after graduation, if the interview cannot reasonably be scheduled to avoid conflict
+* A meeting or event at which the student must appear as a representative of the University (including official athletic events)
+* Comprehensive exams, where these are scheduled by the department to take place on the same day, one day before, or one day after the class meeting
+* Jury duty where this falls on the same day as the class meeting 
+* Other good cause as is warranted under the circumstances 
+
+Deadlines for other course assignments do not constitute good cause for missing class. Extracurriculars (including Greek Life) are also not generally acceptable excuses for absences, unless the student is acting as an official representative of the University (e.g. mock trial tournaments and official athletic events). 
+
+
+## Excessive Absences ##
+
+A student who is absent *for any reason* from the equivalent of three class meetings will not be allowed to continue with the course unless they obtain approval from the professor. In such circumstances, the student will be marked as failing the course with an "F" letter grade unless they withdraw from the course before the final grading period.  
+
+## Missed Exams & Coursework {#late}
+
+As a general rule, I do not accept late work. Deadlines on the [Course Schedule](#schedule) are there to help ensure you successfully achieve the student learning objectives by the end of the semester. If you are unable to meet a deadline or will need to miss an exam for good cause (see list under [Missed Classes](#absences)), you must provide written documentation in advance or within **48 hours** of the missed assignment. If the circumstances make this impossible, documentation should be provided as soon as physically possible. 
+
+
+
+## Grade Disputes {#disputes}
+
+If you think I have made an error, contact me during office hours or schedule an appointment within one week of receiving the grade. Out of respect for your right to privacy under the University’s Confidentiality of Student Records policy and the Family Rights and Privacy Act of 1974, I do not discuss grades via email.
+
+
+
+## Incomplete Grades {#incomplete}
+
+Incomplete “I” grades will be recorded only in exceptional cases when: the student (a) has completed a substantial portion of the course and is otherwise passing, (b) is unable to complete a well-defined portion of a course for reasons beyond the student’s control, and (c) in the instructor’s judgement can complete the required work without repeating the course. 
+
+Requests for "I" grades must be submitted in writing to the instructor using this form: https://forms.gle/JWRZz87gmhyLmBdr9. These should be submitted no earlier than 01 November 2023 (the last day to drop a course with a "W") and no later than the end of the final exam period, which is 12:30pm on 11 December 2023. 
+
+The University of Alabama policy requires all grades of “I” to be removed no later than 12 months after the end of the term in which they were awarded but prior to the student’s graduation or the grade of “I” will be changed to an “F.” The “I” may not be used as a means to re-enroll in a course during a subsequent semester. A grade of “I” may not be used to satisfy a prerequisite requirement.
+
+---  
+
+
+# Other Course Policies
+
+## Names and Pronouns 
+
+UA provides instructors with a roster listing each student’s legal name. However, I will gladly honor your request to address you by an alternate name or gender pronoun. Please advise me accordingly early in the semester so that I may make appropriate changes to my records. You can also designate your pronouns in Banner.
+
+
+
+## TurnItin Policy
+
+Students agree that their enrollment in this course allows the instructor the right to use electronic devices to help prevent plagiarism. All course materials are subject to submission to Turnitin.com for the purpose of detecting textual similarities and plagiarism. 
+
+
+
+## Audio/Video Recordings
+
+This is an in-person discussion-based seminar. Therefore, in general, I will not allow audio/video recording of any kind. This will facilitate an active, honest, and open discussion during our meetings. Students are not allowed to make their own audio or video recordings of class sessions. Any student violating these rules may be referred to the Office of Student Conduct for disciplinary action. Students with documented disabilities requiring access to audio recordings of missed classes should notify me formally through the ODS portal so that we can make alternative accommodations that are more reasonable for the course format. 
+
+
+
+## Sharing Course Materials
+
+All course materials, presentations, and class discussions are for viewing by members of this class section only and may not be posted in any public forum or shared with anyone not enrolled in this class. Any student violating these rules may be referred to the Office of Student Conduct for disciplinary action.
+
+
+
+## Academic Misconduct 
+
+Students are expected to be familiar with and adhere to the official Academic Misconduct Policy provided in the Online Catalog. Any suspected academic misconduct, including plagiarism, will be referred to the College of Arts & Sciences Dean’s Office.  For more information: https://provost.ua.edu/academic-misconduct/ 
+
+
+## Disability Accomodations
+
+The University of Alabama is committed to ensuring the full participation of all students in its programs. If you have a documented disability (or think you may have a disability) and need reasonable accommodation(s) to participate in this class, contact the Office of Disability Services (or ODS; 205-348-4285, ods@ua.edu, Houser Hall 1000, www.ods.ua.edu) as soon as possible. If you have been approved to receive accommodations through ODS, please meet with your instructor or College designee during office hours or by appointment to review your accommodation letter and discuss how accommodations can be implemented in this course.
+
+
+
+
+## Pregnancy Accomodations
+
+Title IX protects against discrimination related to pregnancy or parental status. If you are pregnant and will need  accommodations for this class, please review the University’s FAQs on the UAct website: https://uact.ua.edu/information/pregnancy. 
+
+
+
+
+## Religious Observances
+
+Under the Guidelines for Religious Holiday Observances, students should notify the instructor in writing or via email during the first two weeks of the semester of their intention to be absent from class for religious observance. The instructor will work to provide reasonable opportunity to complete academic responsibilities as long as that does not interfere with the academic integrity of the course. See full guidelines at Religious Holiday Observances Guidelines: https://provost.ua.edu/oaa-guidelines-for-religious-holidays-observance/ 
+
+
+
+
+## UAct Ethical Community 
+
+The University of Alabama is committed to an ethical, inclusive community defined by respect and civility. The UAct website (http://www.ua.edu/uact) provides extensive information on how to report or obtain assistance with a variety of issues, including issues related to dating violence, domestic violence, stalking, sexual assault, sexual violence or other Title IX violations, illegal discrimination, harassment, hate or bias incidents, child abuse or neglect, hazing, threat assessment, retaliation, and ethical violations or fraud.
+
+
+
+
+## Severe Weather Protocol
+
+The guiding principle at The University of Alabama is to promote the personal safety of our students, faculty, and staff during severe weather events. Please see the latest severe weather guidelines in the Online Catalog: www.ready.ua.edu/severe-weather-guidelines/. In particular, I recommend downloading the ABC-3340 weather app, following James Spann on social media, and activating emergency alerts on your mobile devices.
+
+
+
+
+## Mandatory Reporting
+
+As a faculty member at the University of Alabama, I am a mandatory reporter for known or suspected child abuse or neglect. This means that if I become aware of harm or threatened harm, sexual abuse, sexual exploitation, or negligent treatment of any person under the age of 18 or under the age of 19 in need of protective services, I must immediately report the suspected abuse to the University of Alabama Police Department. For more information:  https://uact.ua.edu/information/child-protection 
+
+
+
+## Responsible Reporting
+
+As a faculty member at the University of Alabama, I am considered a responsible reporting individual for sexual misconduct under Title IX regulations. This means that I am required to immediately report known incidents of sexual harassment, sexual assault, dating/domestic violence, and stalking to the Title IX Coordinator and the Designated Harassment Resource Person under the UAct program. For more information: https://uact.ua.edu/information/titleix 
+
+---
+
+
+
+# Notification of Changes
+
+The instructor reserves the right to amend this document as the need arises. In such instances, students will receive notification in class and via email with reasonable time to adjust to any changes. 
+
+---
+
+# Course Schedule {#schedule}
+
+Generally, I recommend that you read the required readings in the order listed in the course schedule. For books, unless the entire text is assigned (see [Required Texts](#texts)), you will be able to access the assigned pages from link. For articles, I have provided the DOI link, which should allow you to access the text free of charge when on the UA network. Otherwise, you should be able to locate them through Google Scholar or the UA library. 
+
+</br>
+
+## 29 August 2023 
+
+**Topic: Course Introduction and Waves**
+
+Today we will cover the particulars of the course, review the syllabus, and have our first discussion covering the assigned readings below. Even though this is our first class - you are expected to submit discussion questions and come prepared to talk about the readings. 
+
+**Required Reading:**
+
+* Huntington, Samuel P. 1993. *The Third Wave: Democratization in the Late Twentieth Century*. Norman, OK: University of Okalhoma Press, 3-30.
+* Lührmann, Anna and Staffan I. Lindberg. 2017. "A Third Wave of Autocratization is Here: What is New About it?" *Democratization* 26, no. 7: 1095-1113.
+* *Why Democracies Develop and Decline*, Chapters 1-2, 1-54
+
+</br>
+
+## 05 September 2023
+
+**Topic: Current Controversies**
+
+This week we will cover two ongoing controversies in the literature on democratization -- (1) whether we really see waves of regime transformation throughout history and (2) whether the world is currently experiencing democratic backsliding. 
+
+**Required Reading:**:
+
+* Skaaning, Svend-Erik. 2020. "Waves of Autocratization and Democratization: A Critical Note on Conceptualization and Measurement." *Democratization* 27, no. 8: 1533-1542. 
+* Tomini, Luca. 2021. "Don't Think Like a Wave! A Research Note About the Current Autocratization Debate." *Democratization* 28, no. 6: 1191-1201. 
+* Boese, Vanessa A., Staffan I. Lindberg, and Anna Lührmann. 2021. "Waves of Autocratization and Democratization: A Rejoinder." *Democratization* 28, no. 6: 1202-1210. 
+* Add here the ongoing debate about backsliding with L\&M
+
+</br>
+
+## 12 September 2023
+
+**Topic: More Conceputalization and Measurement**
+
+This week we will discuss in more detail the debates concerning how to properly conceptualize and measure democracy an democratization. 
+
+**Required Reading:**
+
+* Schumpeter, Joseph. 2003. "Capitalism, Socialism, and Democracy" in *The Democracy Sourcebook* edited by Robert A. Dahl, Ian Shapiro, and Jose Antonio Cheibub, 5--11. Cambridge, MA: MIT Press. https://alabama.box.com/s/bezcmw7c47f2m0vv0cg3i8m67oumfxl3 
+* Dahl, Robert A. 1971. *Polyarchy: Participation and Opposition*. New Haven: Yale University Press,  1-16. 
+* Przeworski, Adam. 2003. "Minimalist Conception of Democracy: A Defense" in *The Democracy Sourcebook* edited by Robert A. Dahl, Ian Shapiro, and Jose Antonio Cheibub, 12-17. Cambridge, MA: MIT Press. https://alabama.box.com/s/cdmrguq47zg3dde5hn3e9hfbxnhkl137 
+* Munck, Gerardo L. and Jay Verkuilen. 2002. "Conceptulizing and Measuring Democracy." *Comparative Political Studies* 35, no. 1: 5-34. https://doi.org/10.1177/001041400203500101. 
+* Coppedge, Michael et al. 2011. "Conceptualizing and Measuring Democracy: A New Approach." *Perspectives on Politics* 9, no. 2: 247-267. https://doi.org/10.1017/S1537592711000880 
+* Lueders, Hans and Ellen Lust. 2018. "Multiple Measurments, Elusive Agreement, and Unstable Outcomes in the Study of Regime Change." *Journal of Politics* 80, no. 2: 736-741. http://dx.doi.org/10.1086/696864. 
+* Maerz, Seraphine F., Amanda B. Edgell, Matthew C. Wilson, Sebastian Hellemeier, and Staffan I. Lindberg. 2023. "Episodes of Regime Transformation." *Journal of Peace Research*, 1-18.
+
+*Recommended Reading*: 
+
+* Coppedge, Michael. 2012. *Democratization and Research Methods*. New York: Cambridge University Press.
+* Munck, Gerardo L. 2009. *Measuring Democracy: A Bridge Between Scholarship & Politics.* Baltimore, MD: Johns Hopkins University Press. 
+* Linz, Juan J. 2000. *Totalitarian and Authoritarian Regimes* Boulder, CO: Lynne Rienner Publishers. 
+
+</br>
+
+## 19 September 2023
+
+**Topic: Problems of Democratic Transition ** 
+
+This week we'll read a substantial portion of the book *Problems of Democratic Transition and Consolidation* by Juan J. Linz and Alfred Stepan. In addition to reading the first part of the book, which sets up their theory, you will be assigned to read one of the case study chapters. During our discussion, you will provide the rest of the class with information on your case and how it fits within the theory. In addition, you should conduct some research on how your case has fared since the publication of Linz and Stepan. Has it "consolidated" as a democracy? Did it "backslide" into authoritarianism? 
+
+
+**Required Reading:**
+
+* Linz, Juan J. and Alfred Stepan. 1996. *Problems of Democratic Transition and Consolidation: Southern Europe, South America, and Post-Communist Europe.* Baltimore, MD: Johns Hopkins University Press, 3-83 + selected chapter(s) on cases.
+
+*Recommended Reading:*
+
+* O'Donnell, Guillermo and Philippe C. Schmitter. 1986. *Transitions from Authoritarian Rule: Tentative Conclusions about Uncertain Democracies.* Baltimore, MD: Johns Hopkins University Press. 
+
+</br>
+
+##  26 September 2023 
+
+**Topic: European and Protestant with Natural Harbors?**
+
+This week, we'll delve into the debates over European exceptionalism and also whether Protestantism or natural harbors (or neither) explains the progression of modern democracy in Europe.  
+
+**Required Reading:**
+
+* *Why Democracies Develop and Decline*, Chapter 3, 55-79.
+* Gerring, John, Brendan Apfeld, Tore Wig, and Andreas Forø Tollefsen. 2022. *The Deep Roots of Modern Democracy: Geography and the Diffusion of Political Institutions*. New York: Cambridge University Press. 
+
+*Recommended Reading:*
+
+* Webber, Max. 1930. *The Protestant Ethic and the Spirit of Capitalism* London: George Allen and Unwin Ltd. 
+* Mamdani, Mahmood. 1996. *Citizen and Subject: Contemporary Africa and the Legacy of Late Colonialism.* Princeton, N.J.: Princeton University Press. 
+* French, Howard. 2021. *Born in Blackness: Africa, Africans, and the Making of the Modern World, 1471 to the Second World War.* New York: W.W. Norton. 
+
+</br>
+
+## 03 October 2023
+
+**Exam Track Students:** You may take a practice exam during this class period. The exam will cover material from Week 1-5. You will receive feedback from me on how to improve your responses for the final exam and, eventually, comprehensive exams. 
+
+**Project Track Students:** You are required to submit a 1-2 page summary of you proposed paper project and meet with me one-on-one to discuss your project. You should bring a printed copy of you project summary to our classroom on Tuesday 03, October between 1-3:30pm, at which time you can sign up for a meeting with me later in the week. 
+
+</br>
+
+## 10 October 2023 
+
+**Topic: "Modernization" Theory**
+
+Does development cause democratization? Are there long run processes of human *evolution* that eventually lead from traditional societies to to modern, democratic and capitalistic ones? This week we evaluate the "modernization" theory, assessing the evidence for and against its claims. Afterward, we will discuss the political factors that gave rise to this theory and why it "never dies."   
+
+
+**Required Reading:**
+
+* Lipset, Seymour Martin. 1959. "Some Social Requisites of Democracy: Economic Development and Political Legitimacy." *American Political Science Review* 53, no. 1: 69--105. https://doi.org/10.2307/1951731.
+* Przeworski, Adam and Fernando Limongi. 1997. "Modernization: Theories and Facts." *World Politics* 49, no. 2: 155--183. https://www.jstor.org/stable/25053996. 
+* Boix, Carles and Susan Stokes. 2003. "Endogenous Democratization." *World Politics* 55, no. 4: 517--549. https://www.jstor.org/stable/25054237. 
+* *Why Democracies Develop and Decline*, Chapter 5, 119-160
+* Gilman, Nils. 2018. "Modernization Theory Never Dies." *History of Political Economy" 50, no. S1: 133--151. https://doi.org/10.1215/00182702-7033896. 
+* Munck, Gerardo. 2018. "Modernization Theory as a Case of Failed Knowledge Production." *Annals of Comparative Democratization* 16, no. 3: 37--41. 
+https://connect.apsanet.org/s35/wp-content/uploads/sites/26/2018/10/2018_16_3-Annals_of_CD_September.pdf 
+
+*Recommended Reading:*
+
+* Wucherpfennig, Julian and Franziska Deutsch. 2009. "Modernization and Democracy: Theories and Evidence Revisited." *Living Reviews in Democracy*: 1--9. http://www.livingreviews.org/lrd-2009-4. 
+* Moore, Barrington. 1966. *Social Origins of Dictatorship and Democracy: Lord, Peasant, and the Making of the Modern World.* Boston: Beacon Press. 
+* Rueshemeyer, Dietrich, Evelyne Huber Stephens, and John D. Stephes. 1992. *Capitalist Development and Democracy.* Chicago: University of Chicago Press.
+* Gilman, Nils. 2007. *Mandarins of the Future: Modernization Theory in Cold War America.* Baltimore, MD: Johns Hopkins University Press.
+
+</br>
+
+## 17 October 2023 
+
+**Topic: International Dimensions**
+
+This one's for the IR students in the course, but also a reminder to CP that foreign actors and global events often shape the domestic context. We will explore several different international dimensions of democratization including foreign pressure, material incentives, and diffusion. 
+
+
+**Required Reading:**
+
+* Brinks, Daniel and Michael Coppedge. 2006. "Diffusion is No Illusion: Neighbor Emulation in the Third Wave of Democratization" *Comparative Political Studies* 39, no. 4: 463-489. 
+https://doi.org/10.1177/0010414005276666. 
+* *Why Democracies Develop and Decline*, Chapter 4, 80-118.
+* Goldring, Edward and Sheena Chestnut Greitens. 2020. "Rethinking Democratic Diffusion: Bringing Regime Type Back In." *Comparative Political Studies* 53, no. 2: 319--353. https://doi.org/10.1177/0010414019852701. 
+* Levitsky, Stephen and Lucan Way. 2006. "Linkage versus Leverage: Rethinking the International Dimension of Regime Change." *Comparative Politics* 38, no. 4: 379--400. https://doi.org/10.2307/20434008. 
+* Wright, Joseph. 2009. "How Foreign Aid Can Foster Democratization in Authoritarian Regimes." *American Journal of Political Science* 53, no. 3: 552-571. https://doi.org/10.1111/j.1540-5907.2009.00386.x. 
+* Clarke, Killian. 2023. "Ambivalent Allies: How Inconsistent Foreign Support Dooms New Democracies." *Journal of Peace Research* 60, no. 1: 157-171. https://doi.org/10.1177/00223433221137612. 
+
+
+*Recommended Reading:*
+
+* Levitsky, Steven and Lucan A. Way. 2010. *Competitive Authoritarianism: Hybrid Regimes after the Cold War.* New York: Cambridge University Press. 
+* Bush, Sarah Sunn. 2015. *The Taming of Democracy Assistance: Why Democracy Promotion Does Not Confront Dictators.* New York: Cambridge University Press. 
+* Downes, Alexander B. and Jonathan Monten. 2013. "Forced to be Free? Why Foreign-imposed Regime Change Rarely Leads to Democratization." *International Security* 47, no. 4: 90-131. https://doi.org/10.1162/ISEC_a_00117. 
+
+</br>
+
+## 24 October 2023 
+
+**Topic: Institutional Dimensions**
+
+Instutions and their legacies play an important role in the literature on democratization. This week we look at some of the institutions under authoritarianism -- such as elections, parties, and legislatures -- as well as the overall organization of the regime to evaluate whether these matter and whether they help or hinder democratization. 
+
+**Required Reading:**
+
+* Geddes, Barbara. 1999. "What Do We Know About Democratization After Twenty Years?" *Annual Review of Political Science* 2: 115-144. https://doi.org/10.1146/annurev.polisci.2.1.115.  
+* Frantz, Erica and Andrea Kendall-Taylor. 2016. "Pathways to Democratization in Personalist Dictatorships." *Democratization* 24, no. 1: 20-40. https://doi.org/10.1080/13510347.2015.1131977. 
+* Gandhi, Jennifer and Adam Przeworski. 2007. "Authoritarian Institutions and the Survival of Autocrats." *Comparative Political Studies* 40, no. 11: 1279--1301. https://doi.org/10.1177/0010414007305817. 
+* Wright, Joseph and Abel Escribá-Folch. 2012. "Authoritarian Institutions and Regime Survival: Transitions to Democracy and Subsequent Autocracy." *British Journal of Political Science* 42, no. 2: 283--309. https://doi.org/10.1017/S0007123411000317. 
+* Edgell, Amanda B., Valeriya Mechkova, David Altman, Michael Bernhard, and Staffan I. Lindberg. 2018. "When and Where do Elections Matter: A Global Test of the Democratization by Elections Hypothesis, 1900-2010." *Democratization* 25, no. 3: 422--444. https://doi.org/10.1080/13510347.2017.1369964. 
+* Donno, Daniela. 2013. "Elections and Democratization in Authoritarian Regimes." *American Journal of Political Science* 57, no. 3: 703--716. https://doi.org/10.1111/ajps.12013. 
+
+
+*Recommended Reading:*
+
+* Geddes, Barbara, Joseph Wright, and Erica Frantz. 2014. "Autocratic Breakdown and Regime Transitions: A New Data Set." *Perspectives on Politics* 12, no. 2: 313-331. https://doi.org/10.1017/S1537592714000851. 
+* *Why Democracies Develop and Decline*, Chapter 6, 163-184.
+* Gandhi, Jennifer. 2008. *Political Institutions Under Dictatorship.* New York: Cambridge University Press. 
+* Ghandi, Jennifer and Ellen Lust-Okar. 2009. "Elections Under Authoritarianism." *Annual Review of Political Science* 12: 403-422. https://doi.org/10.1146/annurev.polisci.11.060106.095434. 
+* Lindberg, Staffan I. ed. 2009. *Democratization by Elections: A New Mode of Transition.* Baltimore, MD: Johns Hopkins University Press. 
+* Levitsky, Stephen and Lucan Ahmed Way. 2020. "The New Competitive Authoritarianism." *Journal of Democracy* 31, no. 1: 51-65.  https://doi.org/10.1353/jod.2020.0004 
+
+</br>
+
+## 31 October 2023
+
+**Topic: Power to the People!**
+
+Can ordinary citizens encourage democratization through their mobilization? What types of civil resistance are more or less likely to be successful and result in democracy? This week we look at these questions and evaluate the revolutionary potential of the masses. 
+
+**Required Reading:**
+
+* Chenoweth, Erica and Maria J. Stephan. 2011. *Why Civil Resistance Works: The Strategic Logic of Nonviolent Conflict* New York: Columbia University Press.
+* *Why Democracies Develop and Decline*, Chapter 7, 185-214.
+
+*Recommended Reading:*
+
+* Putnam, Robert D. 1993. *Making Democracy Work: Civic Traditions in Modern Italy.* Princeton, N.J.: Princeton University Press. 
+* Dahlum, Sirianne. 2023. "Joining Forces: Social Coalitions and Democratic Revolutions." *Journal of Peace Research* 60, no. 1: 42-57. https://doi.org/10.1177/00223433221138614. 
+* Hellmeier, Sebastian and Michael Bernhard. 2023. "Regime Transformation from Below: Mobilization for Democracy and Autocracy from 1900 to 2021." *Comparative Political Studies*, 1-33. https://doi.org/10.1177/00104140231152793. 
+
+</br>
+
+## 07 November 2023 
+
+**Topic: Bringing it Together**
+
+For our final discussion, we will consider a metatheory democratization, primarily influenced by structural factors. We'll then compare this argument to recent claims that democratization might simply be a "mistake". As we discuss these works, we should pay careful attention to how they fit within the other readings throughout the course to draw some general conclusions about what we know about democratization after over 60 years of empirical research.   
+
+**Required Reading:** 
+
+* *Why Democracies Develop and Decline*, Chapter 8, 214-261.
+* Treisman, Daniel. 2020. "Democracy by Mistake: How Errors of Autocrats Trigger Transitions to Freer Government." *American Political Science Review* 114, no. 3: 792--810. https://doi.org/10.1017/S0003055420000180
+
+</br>
+
+## 14 November 2023
+
+**Exam Track Students:** Final exam will take place during our regular class time. 
+
+**Project Track Students:** If you would like feedback on a draft of your paper, you must submit it to me no later than 3:30pm on 14 November, both as a hard copy and emailed soft copy. 
+
+</br>
+
+## 11 December 2023 (10:30am) 
+
+**Exam Track Students who Failed the Final:** You have the option to re-take the final exam on 11 December 2023, 10:30am--12:30pm. 
+
+**Project Track Students:** Final projects should be submitted as a hard copy to my mailbox and a soft-copy to my email no later than 12:30pm on 11 December 2023. 
+
+---
+
+
