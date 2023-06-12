@@ -1,4 +1,5 @@
 name: "psc632-website"
+output_dir: "docs"
 navbar:
   title: "PSC 632 - Democratization"
   left:
