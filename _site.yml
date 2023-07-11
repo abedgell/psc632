@@ -3,8 +3,10 @@ output_dir: "docs"
 navbar:
   title: "PSC 632 - Democratization"
   left:
-  - text: "Home"
+  - text: "Syllabus"
     href: index.html
+  - text: "Course Schedule"
+    href: schedule.html
 output:
   html_document
 
