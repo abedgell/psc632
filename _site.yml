@@ -6,7 +6,7 @@ navbar:
   - text: "Syllabus"
     href: index.html
   - text: "Course Schedule"
-    href: schedule.html
+    href: "/schedule.html"
 output:
   html_document
 
