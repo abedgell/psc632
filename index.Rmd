@@ -37,7 +37,7 @@ ol li{
 
 # Course Description {#description}
 
-One of the most important areas of research in political science concerns the development of modern democracy. For most of recorded history, human beings have lived under dictatorship. During the 20th century, however, democracy swept the globe. While democracy is now a “zeitgeist,” most regimes still fail to meet the minimum standards to be labeled “democratic”. Likewise, many democracies are currently under threat from illiberal and anti-pluralist forces. This semester, we will tackle questions about what constitutes democracy and what explains democratization. We will discuss core debates in the academic literature, drawing on modern classics and newer works produced in the last five years. These scholarly works are highly relevant not only to scholars of democratization but to policymakers and practitioners. Therefore, the course content should be helpful for graduate students pursuing academic careers and those contemplating more policy-oriented professions.
+One of the most important areas of research in political science concerns the development of modern democracy. For most of recorded history, human beings have lived under dictatorship. During the 20th century, however, democracy swept the globe. While democracy is now a “zeitgeist,” most regimes still fail to meet the minimum standards to be labeled “democratic”. Likewise, many democracies are currently under threat from illiberal and anti-pluralist forces. This semester, we will tackle questions about what constitutes democracy and what explains democratization. We will discuss core debates in the academic literature, drawing on modern classics and newer works produced in the last five years. These scholarly works are highly relevant not only to scholars of democratization but to policymakers and practitioners. Throughout this semester, you will also learn how to employ the "structured focused comparison" method for case studies. This method allows investigators to analyze historical processes in a systematic way to draw meaningful conclusions about how institutional changes unfold. The course content should be helpful for graduate students pursuing academic careers and those contemplating more policy-oriented professions.
 
 ---  
 
@@ -47,7 +47,8 @@ By the end of the semester, you should be able to...
 
 1. Summarize the main arguments and findings in the scholarly literature on democratization.
 2. Synthesize the scholarly literature on democratization to identify how different arguments and findings speak to one another. 
-3. Evaluate the current state of our knowledge about democratization to identify limitations and new areas for research.  
+3. Evaluate the current state of our knowledge about democratization to identify limitations and new areas for research. 
+4. Apply the structured focused comparison approach to evaluate processes of democratization and their divergent outcomes using real-world cases. 
 
  
 ---  
@@ -55,10 +56,10 @@ By the end of the semester, you should be able to...
 # Required Texts {#texts}
 
 * Coppedge, Michael, Amanda B. Edgell, Carl Henrik Knutsen, and Staffan I. Lindberg, eds. 2022. *Why Democracies Develop and Decline*. New York: Cambridge University Press.
+* George, Alexander L. and Andrew Bennett. 2005. *Case Studies and Theory Development in the Social Sciences.* Cambridge, MA: MIT Press. 
 *  Linz, Juan J. and Alfred Stepan. 1996. *Problems of Democratic Transition and Consolidation: Southern Europe, South America, and Post-Communist Europe.* Baltimore, MD: Johns Hopkins University Press.
-* Gerring, John, Brendan Apfeld, Tore Wig, and Andreas Forø Tollefsen. 2022. *The Deep Roots of Modern Democracy: Geography and the Diffusion of Political Institutions*. New York: Cambridge University Press. 
 * Chenoweth, Erica and Maria J. Stephan. 2011. *Why Civil Resistance Works: The Strategic Logic of Nonviolent Conflict* New York: Columbia University Press.
-* Mainwaring, Scott and Tarek Masoud (eds.). 2022. *Democracy in Hard Places*. New York: Oxford University Press.
+
 
 ---  
 
@@ -91,15 +92,19 @@ I strongly encourage you to prepare notes on the readings and bring them to clas
 
 
 
-## 2. Exam or Project (50\%) {#exam}
+## 2. Final Paper (50\%) 
 
-**For Students who will take the comparative politics comprehensive exam**
+You will be assigned two cases to analyze for structured focused comparison. This method for case study research uses the systematic selection of cases and the application of a standard set of criteria to evaluate the historical processes in each case to achieve the overall research objective. Our research objective is to better understand democratization. To do so, we will look at cases where political liberalization did and did not produce a democratic transition. We will focus on explaining "deviant" cases where the outcome we observed was different from what we expected *a priori* by comparing them to other cases that are similar or different. You will complete the project in several stages, with feedback and opportunities for revisions throughout. At the end of the semester, you will present your findings to the class for comments and discussion. Here is a summary of the deadlines, which can also be found in the Course Schedule. 
 
-To help you prepare for comprehensive exams, you will take a practice and final exam covering the content of this course. I will grade you exam based on your demonstrated ability to (1) summarize the readings; (2) synthesize across the readings; and (3) evaluate and critique the readings, such as by discussing the limitations, problems in the research design, or flaws in the core argument. These are the same criteria the comparative politics faculty uses when evaluating comprehensive exam responses. We will have a practice exam around the midterm and the final exam will take place during the final week of classes.  If you fail the final exam, you will have one opportunity to re-take it during the university scheduled final exam period. 
 
-**Students who have already taken or will not take the comparative politics comprehensive exam**
+| Assignment                        | Deadline              |
+|:------------------------------------| :----------------------|
+| Timeline of events and references   | 03 October 2023 (11:59pm) |
+| Draft "deviant" case study          | 24 October 2023 (11:59pm) |
+| Draft final paper                   | 28 November 2023 (11:59pm) |
+| Final presentations                 | 05 December (1-3:30pm) |
+| Final papers                        | 11 December 2023 (12:30pm) |
 
-You will conduct a research project. Your project may either be an original research paper, a research proposal, or a policy brief. The project should be related to democratization (broadly defined) and fit within your research or policy interests. Original papers can serve as starting points for article manuscripts, dissertation or thesis chapters, conference presentations, and writing samples. Research proposals will help you refine an idea and get feedback on it, which can be used for a dissertation or thesis prospectus. Policy briefs will provide those interested in policy-oriented careers a chance to engage with the policy implications of the academic work we read throughout the course and develop a viable writing sample for job applications. 
 
 ---  
 

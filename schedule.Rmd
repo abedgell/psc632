@@ -51,7 +51,7 @@ Today we will cover the particulars of the course, review the syllabus, and have
 **Required Reading:**
 
 * Huntington, Samuel P. 1993. *The Third Wave: Democratization in the Late Twentieth Century*. Norman, OK: University of Oklahoma  Press, 3-30. https://alabama.box.com/s/dxs88z9t5az8gd1yhn8t51ch4hcqgaw2 
-* Lührmann, Anna and Staffan I. Lindberg. 2017. "A Third Wave of Autocratization is Here: What is New About it?" *Democratization* 26, no. 7: 1095-1113. https://doi.org/10.1080/13510347.2019.1582029
+* Lührmann, Anna and Staffan I. Lindberg. 2017. "A Third Wave of Autocratization is Here: What is New About it?" *Democratization*, 26(7): 1095-1113. https://doi.org/10.1080/13510347.2019.1582029
 * *Why Democracies Develop and Decline*, Chapters 1-2, 1-54
 
 </br>
@@ -64,9 +64,9 @@ This week we will cover two ongoing controversies in the literature on democrati
 
 **Required Reading:**:
 
-* Skaaning, Svend-Erik. 2020. "Waves of Autocratization and Democratization: A Critical Note on Conceptualization and Measurement." *Democratization* 27, no. 8: 1533-1542. https://doi.org/10.1080/13510347.2020.1799194
-* Tomini, Luca. 2021. "Don't Think Like a Wave! A Research Note About the Current Autocratization Debate." *Democratization* 28, no. 6: 1191-1201. https://doi.org/10.1080/13510347.2021.1874933 
-* Boese, Vanessa A., Staffan I. Lindberg, and Anna Lührmann. 2021. "Waves of Autocratization and Democratization: A Rejoinder." *Democratization* 28, no. 6: 1202-1210. https://doi.org/10.1080/13510347.2021.1923006 
+* Skaaning, Svend-Erik. 2020. "Waves of Autocratization and Democratization: A Critical Note on Conceptualization and Measurement." *Democratization*, 27(8): 1533-1542. https://doi.org/10.1080/13510347.2020.1799194
+* Tomini, Luca. 2021. "Don't Think Like a Wave! A Research Note About the Current Autocratization Debate." *Democratization*, 28(6): 1191-1201. https://doi.org/10.1080/13510347.2021.1874933 
+* Boese, Vanessa A., Staffan I. Lindberg, and Anna Lührmann. 2021. "Waves of Autocratization and Democratization: A Rejoinder." *Democratization*, 28(6): 1202-1210. https://doi.org/10.1080/13510347.2021.1923006 
 * Little, Andrew and Anne Meng. 2023. "Subjective and Objective Measurement of Democratic Backsliding." http://dx.doi.org/10.2139/ssrn.4327307
 * Knutsen, Carl Henrik, et al. 2023. "Conceptual and Measurement Issues in Assessing Democratic Backsliding." V-Dem Working Paper Series, 140.  http://dx.doi.org/10.2139/ssrn.4494175
 
@@ -80,13 +80,15 @@ This week we will continue discussing the debates over how to properly conceptua
 
 **Required Reading:**
 
-* Schumpeter, Joseph. 2003. "Capitalism, Socialism, and Democracy" in *The Democracy Sourcebook* edited by Robert A. Dahl, Ian Shapiro, and Jose Antonio Cheibub, 5--11. Cambridge, MA: MIT Press. https://alabama.box.com/s/bezcmw7c47f2m0vv0cg3i8m67oumfxl3 
+* Schumpeter, Joseph. 2003. "Capitalism, Socialism, and Democracy" in *The Democracy Sourcebook*, eds. Robert A. Dahl, Ian Shapiro, and Jose Antonio Cheibub, 5--11. Cambridge, MA: MIT Press. https://alabama.box.com/s/bezcmw7c47f2m0vv0cg3i8m67oumfxl3 
 * Dahl, Robert A. 1971. *Polyarchy: Participation and Opposition*. New Haven: Yale University Press,  1-16. https://alabama.box.com/s/ylaerdd0m2n7mahnt2sko3txa66ou53j 
-* Przeworski, Adam. 2003. "Minimalist Conception of Democracy: A Defense" in *The Democracy Sourcebook* edited by Robert A. Dahl, Ian Shapiro, and Jose Antonio Cheibub, 12-17. Cambridge, MA: MIT Press. https://alabama.box.com/s/cdmrguq47zg3dde5hn3e9hfbxnhkl137 
-* Munck, Gerardo L. and Jay Verkuilen. 2002. "Conceptualizing and Measuring Democracy." *Comparative Political Studies* 35, no. 1: 5-34. https://doi.org/10.1177/001041400203500101. 
-* Coppedge, Michael, et al. 2011. "Conceptualizing and Measuring Democracy: A New Approach." *Perspectives on Politics* 9, no. 2: 247-267. https://doi.org/10.1017/S1537592711000880 
-* Lueders, Hans and Ellen Lust. 2018. "Multiple Measurements, Elusive Agreement, and Unstable Outcomes in the Study of Regime Change." *Journal of Politics* 80, no. 2: 736-741. http://dx.doi.org/10.1086/696864. 
-* Maerz, Seraphine F., Amanda B. Edgell, Matthew C. Wilson, Sebastian Hellemeier, and Staffan I. Lindberg. 2023. "Episodes of Regime Transformation." *Journal of Peace Research*, 1-18. (This article has been in production for 5 months! Will share the link once it is available.)
+* Sartori, Giovanni. 1991. "Comparing and Miscomparing." *Journal of Theoretical Politics* 3(3): 243--257. https://doi.org/10.1177/0951692891003003001 
+* Alvarez, Mike, José Antonio Cheibub, Fernando Limongi, and Adam Przeworski. 1996. "Classifying Political Regimes." *Studies in Comparative International Development*, 31(2):3–36.
+ https://doi.org/10.1007/BF02719326
+* Paxton, Pamela. 2000. "Women’s Suffrage in the Measurement of Democracy: Problems of Operationalization." *Studies in Comparative International Development*, 35:92–111. https://doi.org/10.1007/BF02699767
+* Elkins, Zachary. 2000. "Gradations of Democracy? Empirical Tests of Alternative Conceptualizations." *American Journal of Political Science*, 44(2):293-300. https://doi.org/10.2307/2669311
+* Coppedge, Michael, et al. 2011. "Conceptualizing and Measuring Democracy: A New Approach." *Perspectives on Politics*, 9(2): 247-267. https://doi.org/10.1017/S1537592711000880 
+* Maerz, Seraphine F., Amanda B. Edgell, Matthew C. Wilson, Sebastian Hellemeier, and Staffan I. Lindberg. 2023. "Episodes of Regime Transformation." *Journal of Peace Research*, 1-18. https://doi.org/10.1177/00223433231168192 
 
 *Recommended Reading*: 
 
@@ -97,6 +99,18 @@ This week we will continue discussing the debates over how to properly conceptua
 </br>
 
 ## 19 September 2023
+
+**Topic: Method of Structured Focused Comparison**
+
+This week we will discuss the method of structured focused comparison that will be employed in your final projects. We will also discuss the assignment and selection of cases. 
+
+**Required reading:**
+
+* George, Alexander L. and Andrew Bennett. 2005. *Case Studies and Theory Development in the Social Sciences.* Cambridge, MA: MIT Press. 
+
+</br>
+
+##  26 September 2023 
 
 **Topic: Problems of Democratic Transition ** 
 
@@ -113,30 +127,11 @@ This week we'll read a substantial portion of the book *Problems of Democratic T
 
 </br>
 
-##  26 September 2023 
-
-**Topic: European and Protestant with Natural Harbors?**
-
-This week, we'll delve into the debates over European exceptionalism and whether Protestantism or natural harbors (or neither) explains the progression of modern democracy in Europe.  
-
-**Required Reading:**
-
-* *Why Democracies Develop and Decline*, Chapter 3, 55-79.
-* Gerring, John, Brendan Apfeld, Tore Wig, and Andreas Forø Tollefsen. 2022. *The Deep Roots of Modern Democracy: Geography and the Diffusion of Political Institutions*. New York: Cambridge University Press. 
-
-*Recommended Reading:*
-
-* Webber, Max. 1930. *The Protestant Ethic and the Spirit of Capitalism* London: George Allen and Unwin Ltd. 
-* Mamdani, Mahmood. 1996. *Citizen and Subject: Contemporary Africa and the Legacy of Late Colonialism.* Princeton, N.J.: Princeton University Press. 
-* French, Howard. 2021. *Born in Blackness: Africa, Africans, and the Making of the Modern World, 1471 to the Second World War.* New York: W.W. Norton. 
-
-</br>
-
 ## 03 October 2023
 
-**Exam Track:** We will have a practice exam during this class period. The exam will cover material from Weeks 1-5. 
+**No Class - Dr. Edgell will be attending the EGAP meeting in Mexico City**
 
-**Project Track:** You must submit a 1-2 page summary of your proposed paper project. You should bring a printed copy of your project summary to our classroom on Tuesday, 03 October between 1-3:30pm.
+Work on your structured focused comparisons. Timelines for both cases and a draft reference list are both due by 03 October 2023 at 11:59pm.  
 
 </br>
 
@@ -152,6 +147,7 @@ Does development cause democratization? Are there long-run processes of human *e
 * Lipset, Seymour Martin. 1959. "Some Social Requisites of Democracy: Economic Development and Political Legitimacy." *American Political Science Review* 53, no. 1: 69--105. https://doi.org/10.2307/1951731.
 * Przeworski, Adam and Fernando Limongi. 1997. "Modernization: Theories and Facts." *World Politics* 49, no. 2: 155--183. https://www.jstor.org/stable/25053996. 
 * Boix, Carles and Susan Stokes. 2003. "Endogenous Democratization." *World Politics* 55, no. 4: 517--549. https://www.jstor.org/stable/25054237. 
+* *Why Democracies Develop and Decline*, Chapter 3, 55-79.
 * *Why Democracies Develop and Decline*, Chapter 5, 119-160
 * Gilman, Nils. 2018. "Modernization Theory Never Dies." *History of Political Economy" 50, no. S1: 133--151. https://doi.org/10.1215/00182702-7033896. 
 * Munck, Gerardo. 2018. "Modernization Theory as a Case of Failed Knowledge Production." *Annals of Comparative Democratization* 16, no. 3: 37--41. 
@@ -163,6 +159,11 @@ https://connect.apsanet.org/s35/wp-content/uploads/sites/26/2018/10/2018_16_3-An
 * Moore, Barrington. 1966. *Social Origins of Dictatorship and Democracy: Lord, Peasant, and the Making of the Modern World.* Boston: Beacon Press. 
 * Rueshemeyer, Dietrich, Evelyne Huber Stephens, and John D. Stephes. 1992. *Capitalist Development and Democracy.* Chicago: University of Chicago Press.
 * Gilman, Nils. 2007. *Mandarins of the Future: Modernization Theory in Cold War America.* Baltimore, MD: Johns Hopkins University Press.
+* Gerring, John, Brendan Apfeld, Tore Wig, and Andreas Forø Tollefsen. 2022. *The Deep Roots of Modern Democracy: Geography and the Diffusion of Political Institutions*. New York: Cambridge University Press. 
+* Webber, Max. 1930. *The Protestant Ethic and the Spirit of Capitalism* London: George Allen and Unwin Ltd. 
+* Mamdani, Mahmood. 1996. *Citizen and Subject: Contemporary Africa and the Legacy of Late Colonialism.* Princeton, N.J.: Princeton University Press. 
+* French, Howard. 2021. *Born in Blackness: Africa, Africans, and the Making of the Modern World, 1471 to the Second World War.* New York: W.W. Norton. 
+
 
 </br>
 
@@ -192,7 +193,15 @@ https://doi.org/10.1177/0010414005276666.
 
 </br>
 
-## 24 October 2023 
+## 24 October 2023
+
+**Topic: Writing & Wellness Week**
+
+This week we will not have a formal class meeting. A draft of your "deviant" case studies should be sent no later than 11:59pm on 24 October. You are also required to meet one-on-one with Dr. Edgell this week to discuss progress on your cases.  
+
+</br>
+
+## 31 October 2023
 
 **Topic: Institutional Dimensions**
 
@@ -219,7 +228,7 @@ Institutions and their legacies play an essential role in the literature on demo
 
 </br>
 
-## 31 October 2023
+## 07 November 2023 
 
 **Topic: Power to the People!**
 
@@ -238,7 +247,7 @@ Can ordinary citizens encourage democratization through their mobilization? What
 
 </br>
 
-## 07 November 2023 
+## 14 November 2023
 
 **Topic: Bringing it Together**
 
@@ -249,36 +258,28 @@ This week, we will consider a metatheory of democratization primarily influenced
 * *Why Democracies Develop and Decline*, Chapter 8, 214-261.
 * Treisman, Daniel. 2020. "Democracy by Mistake: How Errors of Autocrats Trigger Transitions to Freer Government." *American Political Science Review* 114, no. 3: 792--810. https://doi.org/10.1017/S0003055420000180
 
-</br>
+**Recommended Reading:**
 
-## 14 November 2023
-
-**Topic: Democracy in Hard Places?**
-
-What makes democracy most likely to emerge and endure? Throughout the semester, we’ve focused on several factors that facilitate democratization. This week we investigate several cases where democracy has thrived despite the odds. What makes these cases unique? What can others learn from them?
-
-
-**Required Reading:** 
-
-* Dorenspleet, Renske, Petr Kopecky, and Cas Mudde (eds.). 2008. *Democratization: Special Issue on Deviant Democracies* 15, no. 4: 695--832. https://www.tandfonline.com/toc/fdem20/15/4 
-* Mainwaring, Scott and Tarek Masoud (eds.). 2022. *Democracy in Hard Places*. New York: Oxford University Press. 
-
+* Mainwaring, Scott and Tarek Masoud (eds.). 2022. *Democracy in Hard Places*. New York: Oxford University Press.
 
 </br>
+
 
 ## 28 November 2023 
 
-**Exam Track:** Final exam will take place during our regular class time. 
+**Topic: Writing Week**
 
-**Project Track:** If you would like feedback on a draft of your paper, you must submit it to me by 3:30pm on 14 November, both as a hard copy and emailed soft copy.
+This week we will not have a formal class meeting. A draft of your final paper should be sent no later than 11:59pm on 28 November 2023. You are also required to meet one-on-one with Dr. Edgell this week to discuss progress on your cases.  
 
 </br>
 
 
-## 11 December 2023 (10:30am) 
+## 05 December 2023 
 
-**Exam Track:** You can retake the final exam on 11 December 2023, 10:30am–12:30pm. 
+**Topic: Presentations**
 
-**Project Track:** Final projects should be submitted as a hard copy to my mailbox and a soft copy to my email by 12:30pm on 11 December 2023.
+This week you will present your findings to the rest of the class for discussion and comments. As a reminder, final papers are due by 12:30pm on 11 December 2023. 
+
+
 
 ---
