@@ -33,8 +33,7 @@ ol li{
 
 **Last Updated:** `r format(Sys.time(), '%d %B, %Y')`
 
-<span style="color: red;">UNDER CONSTRUCTION. CHANGES MAY OCCUR BEFORE THE SEMESTER STARTS.</span> 
-
+<span style="color: red;">**UNLESS OTHERWISE NOTED, WE WILL MEET IN 346 TEN HOOR** - *NOT THE ROOM LISTED IN BANNER*.</span> 
 
 ---  
 
