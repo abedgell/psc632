@@ -9,6 +9,8 @@ navbar:
     href: schedule.html
   - text: "Discussion Questions"
     href: https://forms.office.com/r/HbKQJ6SQJJ
+  - text: "Additional Resources"
+    href: resources.html
 output: html_document
 
   

@@ -30,7 +30,7 @@ ol li{
 
 **Office Hours:** 314 TH, Tuesdays, 3:45-4:45pm
 
-**Last Updated:** `r format(Sys.time(), '%d %B, %Y')`
+**Last Updated:** `r lubridate::as_date(file.info("index.Rmd")$mtime)`
 
 
 --- 
