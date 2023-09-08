@@ -45,6 +45,12 @@ ol li{
 - Episodes of Regime Transformation Dataset: https://v-dem.net/data/ert-dataset/
 - Democratic Erosion Events Dataset: https://www.democratic-erosion.com 
 - Freedom House Annual Report: https://freedomhouse.org/explore-the-map?type=fiw&year=2023 
+- ACLP Democracy/Dictatorship dataset: 
+https://sites.google.com/site/joseantoniocheibub/datasets/dd
+- Boix, Miller, and Rosato Democracy data:
+https://sites.google.com/site/mkmtwo/data
+
+
 
 ---
 
