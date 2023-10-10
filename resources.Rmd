@@ -28,13 +28,14 @@ ol li{
 }
 ```
 
-**Last Updated:** `r lubridate::as_date(file.info("index.Rmd")$mtime)`
+**Last Updated:** `r lubridate::as_date(file.info("resources.Rmd")$mtime)`
 
 ---
 
 ### Videos
 
 - APSA Democratic Backsliding Roundtable: https://youtu.be/qJwSChvaoWQ?si=BF4BbqmB6RC4OXw3 
+- Andrew Bennett's Youtube Series: https://youtube.com/playlist?list=PLHSdeF_XXoRanMCWKX_kOajjpdoIloAyy&feature=shared 
 
 ---
 
