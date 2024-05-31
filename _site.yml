@@ -1,16 +1,14 @@
 name: "psc632-website"
 output_dir: "docs"
 navbar:
-  title: "PSC 632 - Democratization"
+  title: "PSC 632 - African Politics"
   left:
   - text: "Syllabus"
     href: index.html
   - text: "Course Schedule"
     href: schedule.html
   - text: "Discussion Questions"
-    href: https://forms.office.com/r/HbKQJ6SQJJ
-  - text: "Additional Resources"
-    href: resources.html
+    href: https://forms.office.com/r/3yHSWMg0tH
 output: html_document
 
   

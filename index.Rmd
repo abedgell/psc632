@@ -1,11 +1,12 @@
 ---
-title: 'PSC 632: Democratization'
+title: 'PSC 632: African Politics'
 author: 'Instructor: Dr. Amanda B. Edgell (abedgell@ua.edu)'
-date: "Fall 2023"
+date: "Fall 2024"
 output:
   html_document:
     toc: yes
     toc_float: yes
+subtitle: "Mondays, 1:00-3:30pm"
 filename: index.Rmd    
 ---
 
@@ -29,7 +30,7 @@ ol li{
 ```
 
 
-**Office Hours:** 314 TH, Tuesdays, 3:45-4:45pm
+**Office Hours:** 314 TH, Wednesdays, 10:00-11:00am and by appointment
 
 **Last Updated:** `r lubridate::as_date(file.info("index.Rmd")$mtime)`
 
@@ -38,7 +39,10 @@ ol li{
 
 # Course Description {#description}
 
-One of the most important areas of research in political science concerns the development of modern democracy. For most of recorded history, human beings have lived under dictatorship. During the 20th century, however, democracy swept the globe. While democracy is now a “zeitgeist,” most regimes still fail to meet the minimum standards to be labeled “democratic”. Likewise, many democracies are currently under threat from illiberal and anti-pluralist forces. This semester, we will tackle questions about what constitutes democracy and what explains democratization. We will discuss core debates in the academic literature, drawing on modern classics and newer works produced in the last five years. These scholarly works are highly relevant not only to scholars of democratization but to policymakers and practitioners. Throughout this semester, you will also learn how to employ the "structured focused comparison" method for case studies. This method allows investigators to analyze historical processes in a systematic way to draw meaningful conclusions about how institutional changes unfold. The course content should be helpful for graduate students pursuing academic careers and those contemplating more policy-oriented professions.
+Africa is a diverse continent made up of 54 countries and over 1.2 billion people.  The land area of the Gambia is smaller than Connecticut, whereas Algeria and D.R. Congo are both larger than Western Europe. With over 200 million residents, Nigeria is home to nearly 3\% of the world’s population. Meanwhile, all the residents of Seychelles could fit inside Bryant Denny Stadium (with room to spare!). The continent is often depicted as an impoverished place. To some extent this is true – currently, fifteen African countries have a GDP per capita (PPP) under \$2,000. At the same time, Botswana’s GDP per capita (PPP) is nearly \$2,000 higher than China’s. Africa is also home to all types of political systems – this includes a thriving liberal democracy in Ghana, an absolute monarchy in Eswatini, a military junta in Sudan, and a one-party regime in Eritrea. This makes Africa an exciting place to study comparative politics.
+
+This course primarily focuses on contemporary political dynamics on the African continent in the post-Cold War period.  We will situate studies about African cases within the broader debates of comparative politics by focusing on several core research areas within the sub-discipline. We will draw extensively from recently published books and journal articles throughout the semester to learn about the latest scholarship on African Politics.  
+
 
 ---  
 
@@ -46,26 +50,65 @@ One of the most important areas of research in political science concerns the de
 
 By the end of the semester, you should be able to... 
 
-1. Summarize the main arguments and findings in the scholarly literature on democratization.
-2. Synthesize the scholarly literature on democratization to identify how different arguments and findings speak to one another. 
-3. Evaluate the current state of our knowledge about democratization to identify limitations and new areas for research. 
-4. Apply the structured focused comparison approach to evaluate processes of democratization and their divergent outcomes using real-world cases. 
+1.	Summarize the main arguments and findings in the scholarly literature on African Politics.
+2.	Synthesize the scholarly literature on African Politics to identify how different arguments and findings speak to one another. 
+3.	Evaluate the current state of our knowledge about African Politics to identify limitations and new areas for research.
+
 
  
 ---  
 
 # Required Texts {#texts}
 
-* Coppedge, Michael, Amanda B. Edgell, Carl Henrik Knutsen, and Staffan I. Lindberg, eds. 2022. *Why Democracies Develop and Decline*. New York: Cambridge University Press.
-* George, Alexander L. and Andrew Bennett. 2005. *Case Studies and Theory Development in the Social Sciences.* Cambridge, MA: MIT Press. 
-*  Linz, Juan J. and Alfred Stepan. 1996. *Problems of Democratic Transition and Consolidation: Southern Europe, South America, and Post-Communist Europe.* Baltimore, MD: Johns Hopkins University Press.
-* Chenoweth, Erica and Maria J. Stephan. 2011. *Why Civil Resistance Works: The Strategic Logic of Nonviolent Conflict* New York: Columbia University Press.
+You will need to obtain copies of the following books. These titles are  available through the publisher's website and other major retailers (e.g., Amazon, Barnes \& Noble). Please do not rely on the SupeStore, as they do not regularly stock sufficient quantities of books assigned in courses. If you do not want to purchase these books, you may be able to access them either through the UA library or by requesting a copy through inter-library loan (Illiad). 
+
+* Hyden, Goran. 2024. *Theorizing Comparative Politics: Democratization in Africa.* Cambridge: Cambridge University Press. 
+
+*	Bratton, Michael and Nicholas van de Walle. 1997. *Democratic Experiments in Africa: Regime Transitions in Comparative Perspective.* Cambridge: Cambridge University Press. 
+
+[//]: <> (UA call number: JQ1879.A15 B73 1997)
+
+*	Arriola, Leonardo R., Lise Rakner, and Nicholas van de Walle (eds.). 2023. *Democratic Backsliding in Africa? Autocratization, Resilience, and Contention.* Oxford: Oxford University Press. Open Access: https://doi.org/10.1093/oso/9780192867322.001.0001 
+
+*	Baldwin, Kate. 2015. *The Paradox of Traditional Chiefs in Democratic Africa.* New York: Cambridge University Press. 
+
+
+*	Opalo, Ken Ochieng’. 2018. *Legislative Development in Africa: Politics and Postcolonial Legacies.* Cambridge: Cambridge University Press. 
+
+
+*	Shen-Bayh, Fiona Feiang. 2022. *Undue Process: Persecution and Punishment in Autocratic Courts.* Cambridge: Cambridge University Press. 
+
+
+*	Cheeseman, Nic, Gabrielle Lynch, and Justin Willis. 2021. *The Moral Economy of Elections in Africa: Democracy, Voting, and Virtue.* Cambridge: Cambridge University Press. 
+
+
+*	Weghorst, Keith. 2022. *Activist Origins of Political Ambition: Opposition Candidacy in Africa’s Electoral Authoritarian Regimes.* Cambridge: Cambridge University Press.
+
+[//]: <> (UA call number: JQ1879.A5 W44 2022)
+
+
+* McClendon, Gwyneth H. and Rachel Beatty Riedl. 2019. *From Pews to politics: Religious Sermons and Political Participation in Africa.* Cambridge: Cambridge University Press. 288 pages. 
+
+
+*	Mueller, Lisa. 2018. *Political Protest in Contemporary Africa.* Cambridge: Cambridge University Press. 
+
+[//]: <> (e-book is available through UA library)
+
+*	Arriola, Leonardo R., Martha C. Johnson, and Melanie L. Phillips (eds). 2021. *Women and Power in Africa: Aspiring, Campaigning, and Governing.* Oxford: Oxford University Press. 
+
+[//]: <> (e-book is available through UA library)
+
+
+
 
 
 ---  
 
 # Pre-requisites
-Graduate standing or admission into the Accelerated Masters Program in Political Science.
+Graduate standing or admission into the Accelerated Masters Program in Political Science. If you have no prior knowledge of African Politics beyond U.S. media, I highly recommend that you also read the following book before the semester begins: 
+
+*	Fayolin, Dipo. 2022. *Africa Is Not a Country: Notes from a Bright Continent.* New York: WW Norton. 400 pages.
+
 
 ---  
 
@@ -85,26 +128,27 @@ This is a seminar, not a lecture-based course. You are expected to attend and pa
 * What are the core *contributions* of this work? 
 * What are the *limitations* of this research? 
 
-I strongly encourage you to prepare notes on the readings and bring them to class.
+I strongly encourage you to prepare notes on the readings and bring them to class. For each class session, you can earn up to five points toward your class discussion grade:
 
-**Discussion Questions**: To facilitate class discussions, you are required to submit at least two discussion questions each week **by 8am the day of class**, which can be of a conceptual, substantive, or critical nature. Generally, we will follow that order but may deviate depending on the flow of the discussion.
+**Discussion Questions (1 point)**: To facilitate class discussions, you are required to submit at least two discussion questions each week **by 8am the day of class**. Your questions should critically engage with and strive to build connections between the assigned readings, both within individual weeks and across the entire course. This means that you should prepare accordingly. Your questions will be evaluated based on their quality and you will not earn points for questions that lack sufficient depth or engagement with the assigned materials. 
 
-**Earning Discussion Credit**: For each class session, you can earn up to five points toward your class discussion grade. One point is for submitting two well-formulated discussion questions by 8am, and the other four are for active participation during the discussion. You will not earn discussion credit for merely attending class. You may also lose discussion credit if you arrive to class late, or I suspect that you are not actively listening to the discussion (e.g., working on other assignments, doom scrolling) since this is disrespectful and potentially distracting. It is possible to earn a negative discussion credit score for the day.
+**In-Class Participation (4 points)**: Active participation during the discussion means that you are *listening* and *engaging* with others. You will not earn discussion credit for merely attending class. You may also lose discussion credit if you arrive to class late, or I suspect that you are not actively listening to the discussion (e.g., working on other assignments, doom scrolling) since this is disrespectful and potentially distracting. It is possible to earn a negative discussion credit score for the day.
 
 
 
 ## 2. Final Paper (50\%) 
 
-You will be assigned two cases to analyze for structured focused comparison. This method for case study research uses the systematic selection of cases and the application of a standard set of criteria to evaluate the historical processes in each case to achieve the overall research objective. Our research objective is to better understand democratization. To do so, we will look at cases where political liberalization did and did not produce a democratic transition. We will focus on explaining "deviant" cases where the outcome we observed was different from what we expected *a priori* by comparing them to other cases that are similar or different. You will complete the project in several stages, with feedback and opportunities for revisions throughout. At the end of the semester, you will present your findings to the class for comments and discussion. Here is a summary of the deadlines, which can also be found in the Course Schedule. 
+You are expected to prepare an original research paper for this course. Your project should ask a succinct research question that can be answered within one semester with potential for expansion into a conference paper, academic publication, dissertation chapter, or thesis project. Your question can be descriptive or explanatory in nature (e.g., what vs. why), but your project must relate to some aspect of African politics, broadly defined. You may use either qualitative or quantitative research methods, or some combination of the two to answer your research question. Your choice of methods should be pragmatic and driven by the best available tools to answer your question.  There are several components of the project that we will complete in phases throughout the semester. More details are available here: [link to paper directions].  
 
 
-| Assignment                        | Deadline              |
+| Deadline               | Assignment                        | 
 |:------------------------------------| :----------------------|
-| Timeline of events and references   | 03 October 2023 (11:59pm) |
-| Draft "deviant" case study          | 24 October 2023 (11:59pm) |
-| Draft final paper                   | 28 November 2023 (11:59pm) |
-| Final presentations                 | 05 December (1-3:30pm) |
-| Final papers                        | 11 December 2023 (12:30pm) |
+| 21 October 2024 (1:00-3:30pm)       | Pitch Presentation |
+| 24 October 2024 (11:59pm) | Written Project Proposal |          
+| 22 November 2024 (11:59pm) | Final Paper Draft |
+| 02 December 2024 (1-3:30pm) | Paper Presentations |
+| 12 December 2024 (10:30-12:30pm) | Paper Consultations |
+| 12 December 2024 (11:59pm) | Final Papers Submission 
 
 
 ---  
@@ -137,12 +181,11 @@ A student who is absent *for any reason* from the equivalent of three class meet
 # Grading Policies {#grades}
 
 
-We will use the following grading scale in this class. Graduate students must maintain a 3.0 cumulative GPA or higher for all graduate coursework taken at the University of Alabama. A minimum 3.0 GPA is also required to be eligible for funding from the department.  
+We will use the following grading scale in this class. Graduate students must maintain a 3.0 cumulative GPA or higher for all graduate coursework taken at the University of Alabama. A minimum 3.0 GPA is also required to be eligible for funding from the department.  This means that grades below a "B" in this course are considered inadequate or failing. 
 
-|      A (4.0)     |     B (3.0)      |       C (2.0)      |      F   (0.0)      |
-| :---------: |  :-------:  |  :----------: |  :------------:| 
-|  Exemplary  | Adequate    |  Inadequate   |  Insufficient  |
-| 90-100\%    | 75-89\%     |  50-74\%      |  0-49\%        |
+| A (4.0)     |    B (3.0)  |     C (2.0)   |      D   (1.0) |  F   (0.0)      |
+| :---------: |  :-------:  |  :----------: |  :------------:| :------------:
+| 90-100\%    | 80-89\%     |  70-79\%      |  50-69\%       | 0-49% | 
 
 
 
@@ -162,21 +205,19 @@ If you think I have made an error, contact me during office hours or schedule an
 
 Incomplete “I” grades will be recorded only in exceptional cases when: the student (a) has completed a substantial portion of the course and is otherwise passing, (b) is unable to complete a well-defined portion of a course for reasons beyond the student’s control, and (c) in the instructor’s judgement can complete the required work without repeating the course. 
 
+Requests for "I" grades must be submitted in writing to the instructor, and the student must make arrangements to meet with the instructor before the final grading period to establish a contract for how and when they will complete the remaining coursework. A copy of the contract is available here: https://as.ua.edu/wp-content/uploads/2021/10/Incomplete-Grade-Agreement-Form.pdf 
+
 In cases where “I” grades cause a student’s GPA to drop below 3.0, all “I” grades must be removed within the first four weeks of the next term of enrollment. If a student’s GPA remains below 3.0 after the removal of all “I” grades, the student will earn either Academic Suspension (dismissal) if they were admitted with Permission to Continue or Academic Warning if they were admitted via Regular Admission.
 
 In cases where “I” grades do not cause a student’s GPA to drop below 3.0, all “I” grades must be removed by the end of the subsequent semester (excluding Summer), or the grade will be automatically converted to “F”. Faculty, with appropriate justification, may recommend that a longer completion window be granted to a student in unusual circumstances. In these cases, faculty must submit a petition to the Graduate Registrar before the end of the subsequent semester. The petition must outline the unusual circumstances and a plan for completing the remaining course requirements no later than 12 months from the end of the term in which the “I” grade was awarded, but before the student’s graduation.
 
-Requests for "I" grades must be submitted in writing to the instructor using this form: https://forms.office.com/r/1wFD67LTPn. Such requests can be sent no earlier than 01 November 2023 (the last day to drop a course with a "W") and no later than 12:30pm on 11 December 2023 (the end of the final exam period). 
+
 
 --- 
 
-# Plagiarism and AI Technology
+# Plagiarism and AI 
 
-Learning to communicate your ideas effectively is an essential skill for any career path you may eventually take after graduation. While AI technology is exciting and offers opportunities to improve the efficiency of our research and writing, misusing this technology has negative consequences. Bots like ChatGPT are only accurate about 60-70% of the time and have been known to fabricate information. Using these tools to write your work for you is not only unethical, it renders you invisible. Your voice matters! Don’t let an AI silence you.
-
-In line with UA’s Academic Misconduct policy, I expect you to generate your own work in this course. By submitting an assignment, you claim this work is entirely your own. Any work that you have paraphrased should be correctly cited. If you use more than three words in a row from someone else’s work, use quotation marks and cite the source, including the page number. We will use the American Political Science Association’s (APSA) style manual to assist with this endeavor, accessible here: https://connect.apsanet.org/stylemanual/.
-
-If you submit work generated by someone else or created by a computer application such as ChatGPT, this will be considered a violation of the Academic Misconduct policy and may be reported to the Department Chair or Dean’s office for review.
+In line with UA’s Academic Misconduct policy, I expect you to generate your own work in this course. By submitting an assignment, you claim this work is entirely your own. Any work that you have paraphrased should be correctly cited. If you use more than three words in a row from someone else’s work, use quotation marks and cite the source, including the page number. If you submit work generated by someone else or created by a computer application such as ChatGPT, this will be considered a violation of the Academic Misconduct policy and may be reported to the Department Chair or Dean’s office for review.
 
 You may use word processing tools to check your spelling and grammar and assist with simple re-phrasing tasks. For example, I use the Grammarly application to help with my writing. It checks spelling and punctuation and sometimes provides advice on rephrasing sentences for clarity. This is a perfectly acceptable use of technology. However, having Grammarly’s AI assistant or similar tools write your work for you is unacceptable.
 
