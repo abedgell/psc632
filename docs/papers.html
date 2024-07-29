@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+<meta name="author" content="Instructor: Dr. Amanda B. Edgell (abedgell@ua.edu)" />
+
+
+<title>PSC 632: African Politics</title>
+
+<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">PSC 632 - African Politics</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Syllabus</a>
+</li>
+<li>
+  <a href="schedule.html">Course Schedule</a>
+</li>
+<li>
+  <a href="https://forms.office.com/r/3yHSWMg0tH">Discussion Questions</a>
+</li>
+<li>
+  <a href="papers.html">Paper Guidelines</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">PSC 632: African Politics</h1>
+<h3 class="subtitle">Mondays, 1:00-3:30pm</h3>
+<h4 class="author">Instructor: Dr. Amanda B. Edgell (<a
+href="mailto:abedgell@ua.edu" class="email">abedgell@ua.edu</a>)</h4>
+<h4 class="date">Fall 2024</h4>
+
+</div>
+
+
+<style type="text/css">
+p {
+  font-size: 16px;
+}
+
+td {
+  font-size: 16px;
+}
+
+ul li{
+ font-size:16px;
+}
+
+ol li{
+ font-size:16px;
+}
+</style>
+<p><strong>Last Updated:</strong> 2024-07-29</p>
+<hr />
+<div id="research-project-guidelines" class="section level1">
+<h1>Research Project Guidelines</h1>
+<p>You are expected to conduct original research and prepare an original
+research paper for this course.</p>
+<p>Your project should ask a succinct research question that can be
+answered within one semester with the potential for revision into a
+conference paper, academic publication, dissertation chapter, or thesis
+project. Your question can be descriptive or explanatory in nature
+(e.g., what vs. why), but your project must relate to some aspect of
+African politics, broadly defined.</p>
+<p>You may use either qualitative or quantitative research methods or
+some combination of the two to answer your research question. Your
+choice of methods should be pragmatic and practical, driven by the best
+available tools to answer your question within the semester.</p>
+<p>There are several components of the project that we will complete in
+phases throughout the semester, as summarized in the table below. This
+document provides detailed guidelines and tips that will help you
+develop your project and prepare your final paper.</p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">Deadline</th>
+<th align="left">Assignment</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">27 September 2024</td>
+<td align="left">Consultation #1</td>
+</tr>
+<tr class="even">
+<td align="left">06 October 2024 (11:59pm)</td>
+<td align="left">Project Proposal</td>
+</tr>
+<tr class="odd">
+<td align="left">18 October 2024</td>
+<td align="left">Consultation #2</td>
+</tr>
+<tr class="even">
+<td align="left">22 November 2024 (11:59pm)</td>
+<td align="left">Final Paper Draft</td>
+</tr>
+<tr class="odd">
+<td align="left">02 December 2024</td>
+<td align="left">Paper Presentations Workshop</td>
+</tr>
+<tr class="even">
+<td align="left">06 December 2024</td>
+<td align="left">Consultation #3</td>
+</tr>
+<tr class="odd">
+<td align="left">12 December 2024 (11:59pm)</td>
+<td align="left">Final Paper</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div id="mandatory-consultations" class="section level2">
+<h2>Mandatory Consultations</h2>
+<p>There are three mandatory one-on-one consultations throughout the
+semester. The dates on the schedule are the deadlines; however, I
+encourage you to meet with me as early and as often as you like, either
+in office hours or by appointment.</p>
+<ul>
+<li><p><strong>Consultation 1 (no later than 27 September)</strong>: In
+this meeting, you will pitch to me your project idea and get early
+feedback on whether it sounds feasible. You should come prepared with a
+preliminary research question and ready to justify why you think it is
+important. You should also have some ideas for how you would answer your
+question within the semester.</p></li>
+<li><p><strong>Consultation 2 (no later than 18 October)</strong>: This
+meeting is designed to give you additional feedback on your project
+proposal. You should come prepared to address the questions and issues I
+raised and bring any questions you have about my feedback.</p></li>
+<li><p><strong>Consultation 3 (no later than 06 December)</strong>: This
+meeting is for feedback on your final paper draft. You should come
+prepared to address the questions and issues I raised and bring any
+questions you have about my feedback.</p></li>
+</ul>
+<hr />
+</div>
+<div id="guidelines-for-proposals" class="section level2">
+<h2>Guidelines for Proposals</h2>
+<p>Your research proposal should be no longer than <strong>1,500
+words</strong>, excluding the references. It should cover the
+following:</p>
+<ol style="list-style-type: upper-roman">
+<li><p><strong>Research Question</strong>: Clearly state the research
+question. Elaborate as necessary.</p></li>
+<li><p><strong>Literature and Motivation</strong>: Provide a brief
+summary of the literature and explain why your proposed research is
+important. At this point, you should have completed your review of the
+literature. This section should be a draft of your literature review for
+the final paper.</p></li>
+<li><p><strong>Proposed Methods</strong>: Explain the methods you
+propose to use to answer your research question. Be specific. Discuss
+sources of data, case selection, and tools you will use to analyze the
+data. Justify your method and discuss why alternative approaches are not
+a good fit for your project.</p></li>
+<li><p><strong>Anticipated Findings</strong>: Discuss what you
+anticipate to conclude from the research. Be specific about what you
+think you will find.</p></li>
+<li><p><strong>References</strong>: Provide a list of references used in
+your proposal and others you think you will use in your
+project.</p></li>
+</ol>
+<hr />
+</div>
+<div id="guidelines-for-final-paper" class="section level2">
+<h2>Guidelines for Final Paper</h2>
+<p>Final research papers should be written in an accessible style and
+follow the general conventions of political science scholarship. Papers
+should not exceed <strong>9,000 words</strong> and may be considerably
+shorter, depending on the project. The word limit does not include the
+reference list or appendices.</p>
+<p>In general, I suggest that you choose a well-written article related
+to your research question and try to emulate the structure of that paper
+when writing your own. I say this because the structure varies depending
+on the underlying research question and methodology. Most empirical
+articles include:</p>
+<ol style="list-style-type: upper-roman">
+<li><p><strong>Introduction</strong>: What is this paper about?
+Introduce the main research question and motivation. Explain why the
+research is important, situating this within the literature. Then
+discuss briefly your methods and preview your findings. Most
+introductions also include a final paragraph that gives an overview of
+the rest of the paper.</p></li>
+<li><p><strong>Literature Review and Theory</strong>: This section tells
+the story of what we already know from the literature. It should take
+time to define the core concepts and then draw core lessons from the
+literature, highlighting limitations or gaps. It should also clearly
+state how this paper builds upon the existing literature by proposing a
+new theory or re-evaluating existing theories.</p></li>
+<li><p><strong>Methods</strong>: This section will explain your research
+design and methods. You should clearly articulate the universe of cases
+and how you selected your sample for analysis. You should also describe
+in detail how you conducted your analysis, such as which tools you used
+for collecting data, organizing it, and evaluating it. For quantitative
+studies, this naturally means discussing the variables you used,
+including their sources, and the estimation strategies you adopted
+(e.g., multivariate regression). For qualitative studies, the task is
+often more difficult. Historical case studies will require careful
+discussion of case selection and how you collecting material on your
+case, particularly how you evaluated the credibility of sources and
+mitigated biases. Other qualitative methods, for example, include
+structured-focused comparisons, process tracing, and qualitative content
+analysis.</p></li>
+<li><p><strong>Findings</strong>: This section outlines the main
+findings from the research. You should be clear here the extent to which
+the findings support your theory and the existing theories in the
+literature. The structure for this section varies a lot depending on
+methods. For example, quantitative studies will usually provide tables
+and figures, discussing what these mean. Qualitative studies might
+include lengthy historical descriptions of events within cases or
+thematic discussions of findings across several cases.</p></li>
+<li><p><strong>Conclusion</strong>: This section recaps the main
+findings of the paper and its contribution to the literature. Afterward,
+you should mention the limitations of the study and future research that
+could build upon it by answering unanswered questions or perhaps
+directly addressing causal mechanisms.</p></li>
+<li><p><strong>References</strong>: Provide a list of all sources
+referenced in your paper. For this section, I recommend that you adopt
+some sort of reference management software.</p></li>
+<li><p><strong>Appendix</strong>: This section includes additional
+information such as robustness checks, alternative cases, lists of
+materials consulted, and more technical discussions of methods. You’ll
+use this to supplement information in the main text as needed to keep
+your paper to a reasonable length.</p></li>
+</ol>
+<hr />
+</div>
+<div id="final-papers-workshop" class="section level2">
+<h2>Final Papers Workshop</h2>
+<p>We will hold a read-ahead style workshop for the final papers on
+<strong>02 December 2024</strong> during our final class session. This
+workshop includes two assignments:</p>
+<ol style="list-style-type: decimal">
+<li><p>You should read the other students’ papers and bring feedback for
+them to the class session.</p></li>
+<li><p>You should prepare a 10-12 minute presentation of your paper.
+Your presentation should give a brief overview of the project, including
+the research question, motivation, literature/theory, and
+findings.</p></li>
+</ol>
+<p></br></p>
+<hr />
+<p></br></p>
+</div>
+<div id="additonal-guidance-and-tips" class="section level2">
+<h2>Additonal Guidance and Tips</h2>
+<p></br></p>
+<div id="research-questions" class="section level3">
+<h3>Research Questions</h3>
+<p>What empirical puzzle do you hope to answer with this project? Are
+you interested in describing or explaining something? Both are
+acceptable forms of inference, despite the latter’s preferential
+treatment (see Gerring, J. 2012. “Mere description.” British Journal of
+Political Science, 42(4): 721-46).</p>
+<p>In general, your question should be formulated around a real-world
+phenomenon, not the operationalization of that phenomenon, unless you
+are interested in exploring questions about measurement.</p>
+<p>Examples of <strong>incorrectly phrased questions</strong>:</p>
+<ul>
+<li>Why does the ACLED data on protests vary across African regions as
+defined by the United Nations?</li>
+<li>Does AidData correlate with lower Political Terror Scale scores in
+Africa?</li>
+<li>Do PolityIV scores predict corruption scores by Transparency
+International?</li>
+<li>Does the number of multiparty presidential elections correlate with
+lower Freedom House Civil Liberties scores in Africa?</li>
+<li>Is Geddes et al. (2014) or Regimes of the World better for
+predicting authoritarian breakdown in Africa?</li>
+</ul>
+<p>Examples of <strong>correctly phrased questions</strong>:</p>
+<ul>
+<li>Why do some African regions experience comparatively higher rates of
+social mobilization?</li>
+<li>Does foreign aid reduce human rights abuses in Africa?</li>
+<li>How does democracy affect perceived corruption levels?</li>
+<li>Does electoral experience entrench or subvert democracy in
+Africa?</li>
+<li>How does our conceptualization of authoritarian regimes in Africa
+affect the answers we get to questions about authoritarian resilience
+and breakdown?</li>
+</ul>
+<p>Once you have your research question, you should break it down into
+the central concepts you are interested in studying. Think of these as
+your research topic(s) or keywords. For the correctly phrased questions
+above, the central concepts are:</p>
+<ul>
+<li>Social mobilization and geopolitical regions in Africa</li>
+<li>Foreign aid and human rights abuses</li>
+<li>Democracy and corruption perceptions</li>
+<li>Electoral experience and democracy</li>
+<li>Authoritarian regimes, authoritarian resilience, and authoritarian
+breakdown</li>
+</ul>
+<p></br></p>
+</div>
+<div id="the-literature-review" class="section level3">
+<h3>The Literature Review</h3>
+<p>Once you’ve defined your question and isolated your central concepts,
+you should conduct a thorough review of the literature. This serves two
+main purposes:</p>
+<ol style="list-style-type: decimal">
+<li><p><strong>How do we define the central concepts in your
+study?</strong><br />
+You need to understand what your concepts mean in practice and how we
+can measure them. You should scour the academic and policy literature to
+come up with your preferred definition of each concept and preferred
+method for measuring it. You should also keep track of competing
+definitions and measures, so that you can discuss these in your paper
+and potentially address the through robustness tests.</p></li>
+<li><p><strong>Why is answering this question important?</strong><br />
+You should situate your research puzzle within ongoing debates in the
+literature or as a practical policy solution. As part of your literature
+review, you should seek answers to the following questions: What do we
+already know? Has your research question been studied previously? What
+did those studies find? What are the limitations of our existing
+knowledge of the research question and related concepts? How will your
+study contribute to the ongoing discussions in the literature by
+extending or building upon previous findings or opening up new pathways
+of research on the central concepts beyond what we already know? At the
+end of this process, you should be able to explain what important
+academic and/or policy-relevant outcomes will come from your research.
+In other words, why is this research worth your time, and why should
+others care about it?</p></li>
+</ol>
+<p><strong>General Tips for Conducting a Literature Review:</strong></p>
+<ul>
+<li><p>Start with reliable databases of academic journal articles.
+Google Scholar is good but often includes <a
+href="https://en.wikipedia.org/wiki/Predatory_publishing">‘predatory
+journals’</a>, so be sure to verify that the source is reliable. Other
+tools that are useful include <a
+href="https://www.researchrabbitapp.com">Research Rabbit</a> and the UA
+library’s website.</p></li>
+<li><p>Use the library to locate books. Search Scout for related books.
+Make a list of the call numbers and then go to the library to find these
+in the stacks. The library organizes books around themes, so there will
+be other related books nearby. This is a great way to find things that
+you may not have found otherwise.</p></li>
+<li><p>Snowball. Start with the most influential works in the literature
+on your research topic. Consult the reference list of those articles to
+find other related works. Then look for articles that have cited the
+most influential works, either through Google Scholar or Research
+Rabbit. Then consult their works cited as well. Eventually, you should
+reach a saturation point.</p></li>
+<li><p>Stay organized. Keep a running list of all works you have found
+relevant to your topic. I use a <a
+href="https://docs.google.com/spreadsheets/d/1OntjN_N0MJ949hbvhvCViMbaAQi9rEv27h7H41NMusc/edit?usp=sharing">spreadsheet</a>
+and fill in the information as I review each work. Alternatively, you
+could keeping a running <a
+href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/annotated_bibliographies/annotated_bibliography_samples.html">annotated
+bibliography</a>.</p></li>
+<li><p>Look for broad themes. The goal here is to create a story from
+the literature. Your written literature review section in the final
+paper should weave together the main arguments and findings in the
+literature. Some ways to do this are to cluster around themes, methods,
+or approaches. You want to zoom out and plug in individual works as they
+fit into the story. You do not want to focus on the trees and miss the
+forest. In other words, avoid the “beads-on-a-string” approach that
+simply defaults to an annotated bibliography as the literature
+review.</p></li>
+</ul>
+<p></br></p>
+</div>
+<div id="a-note-about-methods" class="section level3">
+<h3>A Note About Methods</h3>
+<p>How will you answer your question? What sources of data will you draw
+upon? Will you use a single case study, comparative cases, or
+cross-national data? Will you use qualitative or quantitative methods?
+Why is this method appropriate for answering your question, both from a
+utility and practical sense?</p>
+<p>I do not have a preference for qualitative or quantitative methods.
+My training is pluralistic and my approach to methodology is pragmatic.
+What is the best method for answering the question, both in terms of
+rigor and practicality? I expect that some students in this class will
+pursue quantitative observational analyses while others will employ
+qualitative case studies. The choice is really about your research
+question, what you are comfortable with, and what you are able to do
+within the time constraints of the course.</p>
+<p>During our individual consultations, we can discuss methodology and
+ways to go about choosing the best approach for your paper. We can
+discuss available sources of data, case selection, and further readings
+on methodology that will help guide your study.</p>
+</div>
+</div>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
