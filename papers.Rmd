@@ -1,0 +1,192 @@
+---
+title: 'PSC 632: African Politics'
+author: 'Instructor: Dr. Amanda B. Edgell (abedgell@ua.edu)'
+date: "Fall 2024"
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
+subtitle: "Mondays, 1:00-3:30pm"
+filename: papers.Rmd 
+---
+
+```{css, echo=FALSE}
+p {
+  font-size: 16px;
+}
+
+td {
+  font-size: 16px;
+}
+
+ul li{
+ font-size:16px;
+}
+
+ol li{
+ font-size:16px;
+}
+```
+
+**Last Updated:** `r lubridate::as_date(file.info("index.Rmd")$mtime)`
+
+
+--- 
+
+
+# Research Project Guidelines
+
+You are expected to conduct original research and prepare an original research paper for this course. 
+
+Your project should ask a succinct research question that can be answered within one semester with the potential for revision into a conference paper, academic publication, dissertation chapter, or thesis project. Your question can be descriptive or explanatory in nature (e.g., what vs. why), but your project must relate to some aspect of African politics, broadly defined. 
+
+You may use either qualitative or quantitative research methods or some combination of the two to answer your research question. Your choice of methods should be pragmatic and practical, driven by the best available tools to answer your question within the semester. 
+
+There are several components of the project that we will complete in phases throughout the semester, as summarized in the table below. This document provides detailed guidelines and tips that will help you develop your project and prepare your final paper. 
+
+|      Deadline	             |   Assignment                 |
+|     :-------------         | :-------------               |  
+|  27 September 2024 	       | Consultation #1              |  
+| 06 October 2024 (11:59pm)	 | Project Proposal             |
+| 18 October 2024 	         | Consultation #2              |
+| 22 November 2024 (11:59pm) | Final Paper Draft            |
+| 02 December 2024 	         | Paper Presentations Workshop |
+| 06 December 2024	         | Consultation #3              |
+| 12 December 2024 (11:59pm) | Final Paper                  |
+
+
+--- 
+
+## Mandatory Consultations 
+
+There are three mandatory one-on-one consultations throughout the semester. The dates on the schedule are the deadlines; however, I encourage you to meet with me as early and as often as you like, either in office hours or by appointment. 
+
+- **Consultation 1 (no later than 27 September)**: In this meeting, you will pitch to me your project idea and get early feedback on whether it sounds feasible. You should come prepared with a preliminary research question and ready to justify why you think it is important. You should also have some ideas for how you would answer your question within the semester. 
+
+- **Consultation 2 (no later than 18 October)**: This meeting is designed to give you additional feedback on your project proposal. You should come prepared to address the questions and issues I raised and bring any questions you have about my feedback.
+
+- **Consultation 3 (no later than 06 December)**: This meeting is for feedback on your final paper draft. You should come prepared to address the questions and issues I raised and bring any questions you have about my feedback. 
+
+--- 
+
+## Guidelines for Proposals
+
+Your research proposal should be no longer than **1,500 words**, excluding the references. It should cover the following:
+
+
+I.  **Research Question**: Clearly state the research question. Elaborate as necessary.
+
+II.  **Literature and Motivation**: Provide a brief summary of the literature and explain why your proposed research is important. At this point, you should have completed your review of the literature. This section should be a draft of your literature review for the final paper.
+
+III.  **Proposed Methods**: Explain the methods you propose to use to answer your research question. Be specific. Discuss sources of data, case selection, and tools you will use to analyze the data. Justify your method and discuss why alternative approaches are not a good fit for your project. 
+
+IV.  **Anticipated Findings**: Discuss what you anticipate to conclude from the research. Be specific about what you think you will find. 
+
+V.  **References**: Provide a list of references used in your proposal and others you think you will use in your project. 
+
+--- 
+
+## Guidelines for Final Paper
+
+Final research papers should be written in an accessible style and follow the general conventions of political science scholarship. Papers should not exceed **9,000 words** and may be considerably shorter, depending on the project. The word limit does not include the reference list or appendices.  
+
+In general, I suggest that you choose a well-written article related to your research question and try to emulate the structure of that paper when writing your own. I say this because the structure varies depending on the underlying research question and methodology.  Most empirical articles include: 
+
+I.  **Introduction**: What is this paper about? Introduce the main research question and motivation. Explain why the research is important, situating this within the literature. Then discuss briefly your methods and preview your findings. Most introductions also include a final paragraph that gives an overview of the rest of the paper. 
+
+II.  **Literature Review and Theory**: This section tells the story of what we already know from the literature. It should take time to define the core concepts and then draw core lessons from the literature, highlighting limitations or gaps. It should also clearly state how this paper builds upon the existing literature by proposing a new theory or re-evaluating existing theories. 
+
+III.  **Methods**: This section will explain your research design and methods. You should clearly articulate the universe of cases and how you selected your sample for analysis. You should also describe in detail how you conducted your analysis, such as which tools you used for collecting data, organizing it, and evaluating it. For quantitative studies, this naturally means discussing the variables you used, including their sources, and the estimation strategies you adopted (e.g., multivariate regression). For qualitative studies, the task is often more difficult. Historical case studies will require careful discussion of case selection and how you collecting material on your case, particularly how you evaluated the credibility of sources and mitigated biases. Other qualitative methods, for example, include structured-focused comparisons, process tracing, and qualitative content analysis.
+
+IV.  **Findings**: This section outlines the main findings from the research. You should be clear here the extent to which the findings support your theory and the existing theories in the literature. The structure for this section varies a lot depending on methods. For example, quantitative studies will usually provide tables and figures, discussing what these mean. Qualitative studies might include lengthy historical descriptions of events within cases or thematic discussions of findings across several cases. 
+
+V.  **Conclusion**: This section recaps the main findings of the paper and its contribution to the literature. Afterward, you should mention the limitations of the study and future research that could build upon it by answering unanswered questions or perhaps directly addressing causal mechanisms. 
+
+VI.  **References**: Provide a list of all sources referenced in your paper. For this section, I recommend that you adopt some sort of reference management software.  
+
+VII.  **Appendix**: This section includes additional information such as robustness checks, alternative cases, lists of materials consulted, and more technical discussions of methods. You’ll use this to supplement information in the main text as needed to keep your paper to a reasonable length. 
+
+---  
+
+## Final Papers Workshop
+
+We will hold a read-ahead style workshop for the final papers on **02 December 2024** during our final class session. This workshop includes two assignments: 
+
+1.  You should read the other students’ papers and bring feedback for them to the class session.  
+
+2.  You should prepare a 10-12 minute presentation of your paper. Your presentation should give a brief overview of the project, including the research question, motivation, literature/theory, and findings.  
+
+</br>
+
+---  
+
+</br>
+
+## Additonal Guidance and Tips
+</br>
+
+### Research Questions
+
+What empirical puzzle do you hope to answer with this project? Are you interested in describing or explaining something? Both are acceptable forms of inference, despite the latter’s preferential treatment (see Gerring, J. 2012. “Mere description.” British Journal of Political Science, 42(4): 721-46). 
+
+In general, your question should be formulated around a real-world phenomenon, not the operationalization of that phenomenon, unless you are interested in exploring questions about measurement. 
+
+Examples of **incorrectly phrased questions**: 
+
+- Why does the ACLED data on protests vary across African regions as defined by the United Nations?
+-	Does AidData correlate with lower Political Terror Scale scores in Africa?
+- Do PolityIV scores predict corruption scores by Transparency International?
+- Does the number of multiparty presidential elections correlate with lower Freedom House Civil Liberties scores in Africa?
+- Is Geddes et al. (2014) or Regimes of the World better for predicting authoritarian breakdown in Africa?
+
+
+Examples of **correctly phrased questions**: 
+
+- Why do some African regions experience comparatively higher rates of social mobilization? 
+-	Does foreign aid reduce human rights abuses in Africa?
+- How does democracy affect perceived corruption levels?
+-	Does electoral experience entrench or subvert democracy in Africa?
+-	How does our conceptualization of authoritarian regimes in Africa affect the answers we get to questions about authoritarian resilience and breakdown?   
+
+Once you have your research question, you should break it down into the central concepts you are interested in studying. Think of these as your research topic(s) or keywords. For the correctly phrased questions above, the central concepts are:
+
+- Social mobilization and geopolitical regions in Africa
+- Foreign aid and human rights abuses
+- Democracy and corruption perceptions
+- Electoral experience and democracy
+- Authoritarian regimes, authoritarian resilience, and authoritarian breakdown
+
+</br>
+
+### The Literature Review 
+
+Once you’ve defined your question and isolated your central concepts, you should conduct a thorough review of the literature. This serves two main purposes: 
+
+1. **How do we define the central concepts in your study?**  
+You need to understand what your concepts mean in practice and how we can measure them. You should scour the academic and policy literature to come up with your preferred definition of each concept and preferred method for measuring it. You should also keep track of competing definitions and measures, so that you can discuss these in your paper and potentially address the through robustness tests. 
+
+2. **Why is answering this question important?**  
+You should situate your research puzzle within ongoing debates in the literature or as a practical policy solution. As part of your literature review, you should seek answers to the following questions: What do we already know? Has your research question been studied previously? What did those studies find? What are the limitations of our existing knowledge of the research question and related concepts? How will your study contribute to the ongoing discussions in the literature by extending or building upon previous findings or opening up new pathways of research on the central concepts beyond what we already know? At the end of this process, you should be able to explain what important academic and/or policy-relevant outcomes will come from your research. In other words, why is this research worth your time, and why should others care about it?
+
+**General Tips for Conducting a Literature Review:**
+
+- Start with reliable databases of academic journal articles. Google Scholar is good but often includes [‘predatory journals’](https://en.wikipedia.org/wiki/Predatory_publishing), so be sure to verify that the source is reliable. Other tools that are useful include [Research Rabbit](https://www.researchrabbitapp.com) and the UA library’s website. 
+
+- Use the library to locate books. Search Scout for related books. Make a list of the call numbers and then go to the library to find these in the stacks. The library organizes books around themes, so there will be other related books nearby. This is a great way to find things that you may not have found otherwise.
+
+- Snowball. Start with the most influential works in the literature on your research topic. Consult the reference list of those articles to find other related works. Then look for articles that have cited the most influential works, either through Google Scholar or Research Rabbit. Then consult their works cited as well. Eventually, you should reach a saturation point. 
+
+- Stay organized. Keep a running list of all works you have found relevant to your topic. I use a [spreadsheet](https://docs.google.com/spreadsheets/d/1OntjN_N0MJ949hbvhvCViMbaAQi9rEv27h7H41NMusc/edit?usp=sharing) and fill in the information as I review each work. Alternatively, you could keeping a running [annotated bibliography](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/annotated_bibliographies/annotated_bibliography_samples.html).
+
+- Look for broad themes. The goal here is to create a story from the literature. Your written literature review section in the final paper should weave together the main arguments and findings in the literature. Some ways to do this are to cluster around themes, methods, or approaches. You want to zoom out and plug in individual works as they fit into the story. You do not want to focus on the trees and miss the forest. In other words, avoid the “beads-on-a-string” approach that simply defaults to an annotated bibliography as the literature review. 
+
+</br> 
+
+### A Note About Methods
+
+How will you answer your question? What sources of data will you draw upon? Will you use a single case study, comparative cases, or cross-national data? Will you use qualitative or quantitative methods? Why is this method appropriate for answering your question, both from a utility and practical sense? 
+
+I do not have a preference for qualitative or quantitative methods. My training is pluralistic and my approach to methodology is pragmatic. What is the best method for answering the question, both in terms of rigor and practicality? I expect that some students in this class will pursue quantitative observational analyses while others will employ qualitative case studies. The choice is really about your research question, what you are comfortable with, and what you are able to do within the time constraints of the course. 
+
+During our individual consultations, we can discuss methodology and ways to go about choosing the best approach for your paper. We can discuss available sources of data, case selection, and further readings on methodology that will help guide your study. 
+
