@@ -28,7 +28,7 @@ ol li{
 }
 ```
 
-**Office Hours:** 314 TH, Wednesdays, 10:00-11:00am
+**Office Hours:** 314 TH, Mondays, 3:30-4:30pm and by appointment
 
 **Last Updated:** `r lubridate::as_date(file.info("index.Rmd")$mtime)`
 
