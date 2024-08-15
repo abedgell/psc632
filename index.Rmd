@@ -46,7 +46,7 @@ This course primarily focuses on contemporary political dynamics on the African 
 
 ---  
 
-# Student Learning Objectives {#slos}
+# Student Learning Outcomes {#slos}
 
 By the end of the semester, you should be able to... 
 
@@ -126,17 +126,30 @@ This is a seminar, not a lecture-based course. You are expected to attend and pa
 
 I strongly encourage you to prepare notes on the readings and bring them to class. For each class session, you can earn up to five points toward your class discussion grade:
 
-- **Discussion Questions (1 point)**: To facilitate class discussions, you are required to submit at least two discussion questions each week **by 8am the day of class**. Your questions should critically engage with and strive to build connections between the assigned readings, both within individual weeks and across the entire course. This means that you should prepare accordingly. Your questions will be evaluated based on their quality and you will not earn points for questions that lack sufficient depth or engagement with the assigned materials. 
+- **Discussion Questions (1 point)**: To facilitate class discussions, you are required to submit at least two discussion questions each week **by 8am the day of class** using Microsoft Forms: https://forms.office.com/r/3yHSWMg0tH. Your questions should critically engage with and strive to build connections between the assigned readings, both within individual weeks and across the entire course. This means that you should prepare accordingly. Your questions will be evaluated based on their quality and you will not earn points for questions that lack sufficient depth or engagement with the assigned materials. 
 
 - **In-Class Participation (4 points)**: Active participation during the discussion means that you are *listening* and *engaging* with others. You will not earn discussion credit for merely attending class. You may also lose discussion credit if you arrive to class late, or I suspect that you are not actively listening to the discussion (e.g., working on other assignments, doom scrolling) since this is disrespectful and potentially distracting. It is possible to earn a negative discussion credit score for the day.
 
 </br>
 
-###  Research Project or Exam (50\%) 
+###  Research Project (50\%) 
 
-- **Research Project:** There are several components of the research project that we will complete in phases throughout the semester. More details are available in the [Paper Guidelines](papers.html). In general, your project should ask a research question that can be answered within one semester with potential for expansion into a conference paper, academic publication, dissertation chapter, or thesis project. Your question can be descriptive or explanatory in nature (e.g., what vs. why), but your project must relate to some aspect of African politics, broadly defined. Your choice of methods for answering your research question should be pragmatic and practical, based on the best available tools given the constraints of a semester-length project.    
+All students are encouraged to complete an original research project on a question related to African Politics, broadly defined. This assignment is particularly relevant to students who plan to conduct research on or related to the African continent for their MA thesis or PhD dissertation. However, obtaining experience conducting research is also important for students who may not be specializing in African politics or comparative politics more generally. So, I encourage everyone to pursue this track and will only make exceptions when a clear case is made for why conducting research for this class will have no direct benefit to you (see Final Exam Option below).  
 
-- **Final Exam:** With permission from the instructor, students may take a final exam in lieu of conducting an original research project. Students wishing to take the final exam must meet with me to obtain approval by 27 September 2024. The final exam will consist of two essay questions similar to those you would encounter for the MA or PhD comprehensive exams in political science, and you will have two hours to complete the exam during the university-assigned exam period on 12 December from 1:30-3:30pm. As part of your final exam grade, you are also required to participate in the end-of-semester research workshop, where students who conducted research projects will present their work for feedback. This will be a read-ahead style workshop. You are required to read all the papers in advance and share your feedback during the workshop.  
+There are several components of the research project that we will complete in phases throughout the semester. More details are available in the [Paper Guidelines](papers.html). In general, your project should ask a research question that can be answered within one semester with potential for expansion into a conference paper, academic publication, dissertation chapter, or thesis project. Your question can be descriptive or explanatory in nature (e.g., what vs. why), but your project must relate to some aspect of African politics. I define African Politics broadly, and students may submit research on topics related to various themes crossing subfields of political science and other related disciplines.  However, the research should be empirical in nature and have a clearly defined question. Your choice of methods for answering your research question should be pragmatic and practical, based on the best available tools given the constraints of a semester-length project.    
+</br>
+
+### Final Exam Option
+
+With permission from the instructor, students may take a final exam in lieu of conducting an original research project. Students wishing to take the final exam must meet with me to obtain approval by 27 September 2024. 
+
+The final exam will consist of two essay questions similar to those you would encounter for the MA or PhD comprehensive exams in political science. You will have two hours to complete the exam during the university-assigned exam period on 12 December from 1:30-3:30pm. 
+
+Before taking the final exam, you are required to meet one-on-one with all faculty members in the department who specialize in your exam fields. For political science MA students, this is your major field, and for political science PhD students, this is both your major and minor field. For students outside the department, we can discuss what this requirement looks like depending on your department's examination standards. The purpose of these meetings is to discuss expectations for comprehensive exams to help you prepare for this milestone. You must submit a signed form documenting that you have meet with each professor by 06 December. 
+
+Before taking the final exam, you are also required to participate in the end-of-semester research workshop, where students who conducted research projects will present their work for feedback. This will be a read-ahead style workshop. You are required to read all the papers in advance and share your feedback during the workshop. 
+
+
 
 
 ---  
@@ -267,7 +280,9 @@ Title IX protects against discrimination related to pregnancy or parental status
 Under the Guidelines for Religious Holiday Observances, students should notify the instructor in writing or via email during the first two weeks of the semester of their intention to be absent from class for religious observance. The instructor will work to provide reasonable opportunity to complete academic responsibilities as long as that does not interfere with the academic integrity of the course. See full guidelines at Religious Holiday Observances Guidelines: https://provost.ua.edu/oaa-guidelines-for-religious-holidays-observance/ 
 
 
+## Civic Engagement and Voting
 
+The University of Alabama is committed to fostering individual and civic responsibility. The [vote.ua.edu](https://vote.ua.edu) website is an up-to-date voter information resource, providing links to how to register to vote, how to request an absentee ballot, and other voting-related questions. Students who need to miss class to travel to vote on Election Day may discuss the possibility of an excused absence with the instructor.
 
 ## UAct Ethical Community 
 
@@ -282,7 +297,6 @@ The guiding principle at The University of Alabama is to promote the personal sa
 
 
 
-
 ## Mandatory Reporting
 
 As a faculty member at the University of Alabama, I am a mandatory reporter for known or suspected child abuse or neglect. This means that if I become aware of harm or threatened harm, sexual abuse, sexual exploitation, or negligent treatment of any person under the age of 18 or under the age of 19 in need of protective services, I must immediately report the suspected abuse to the University of Alabama Police Department. For more information:  https://uact.ua.edu/information/child-protection 
@@ -293,19 +307,13 @@ As a faculty member at the University of Alabama, I am a mandatory reporter for 
 
 As a faculty member at the University of Alabama, I am considered a responsible reporting individual for sexual misconduct under Title IX regulations. This means that I am required to immediately report known incidents of sexual harassment, sexual assault, dating/domestic violence, and stalking to the Title IX Coordinator and the Designated Harassment Resource Person under the UAct program. For more information: https://uact.ua.edu/information/titleix 
 
----
 
-
-# Student Resources
+## Student Resources
 
 The University of Alabama provides resources and support for the benefit of all students. An up-to-date list of these resources is located on the Division of Student Life website, which includes information regarding counseling, health and wellness, career planning, and accessibility services. For more information: https://sl.ua.edu/students/#support
 
 
----
-
-
-
-# Notification of Changes
+## Notification of Changes
 
 The instructor reserves the right to amend this document as the need arises. In such instances, students will receive notification in class and via email with reasonable time to adjust to any changes. 
 
