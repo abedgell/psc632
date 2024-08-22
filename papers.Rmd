@@ -174,11 +174,13 @@ You should situate your research puzzle within ongoing debates in the literature
 
 - Use the library to locate books. Search Scout for related books. Make a list of the call numbers and then go to the library to find these in the stacks. The library organizes books around themes, so there will be other related books nearby. This is a great way to find things that you may not have found otherwise.
 
-- Snowball. Start with the most influential works in the literature on your research topic. Consult the reference list of those articles to find other related works. Then look for articles that have cited the most influential works, either through Google Scholar or Research Rabbit. Then consult their works cited as well. Eventually, you should reach a saturation point. 
+- Snowball. Start with a publication that closely matches your research topic. If you can find a review article, that's even better. Then read backward and forward in the literature, reviewing earlier publications that are cited in the article and later publications that cited the article. For each new article, do the same forward and backward reviewing until you reach a staturation point. 
 
 - Stay organized. Keep a running list of all works you have found relevant to your topic. I use a [spreadsheet](https://docs.google.com/spreadsheets/d/1OntjN_N0MJ949hbvhvCViMbaAQi9rEv27h7H41NMusc/edit?usp=sharing) and fill in the information as I review each work. Alternatively, you could keeping a running [annotated bibliography](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/annotated_bibliographies/annotated_bibliography_samples.html).
 
 - Look for broad themes. The goal here is to create a story from the literature. Your written literature review section in the final paper should weave together the main arguments and findings in the literature. Some ways to do this are to cluster around themes, methods, or approaches. You want to zoom out and plug in individual works as they fit into the story. You do not want to focus on the trees and miss the forest. In other words, avoid the “beads-on-a-string” approach that simply defaults to an annotated bibliography as the literature review. 
+
+- Leverage technology but don't let it do the work for you. [Claude](https://claude.ai) and [Consensus](https://consensus.app) are two helpful AI tools for summarizing academic literature. However, as with any AI model, they can make mistakes. You may use these tools to help you locate sources and understand dense material, but you still need to review the works yourself. 
 
 </br> 
 
